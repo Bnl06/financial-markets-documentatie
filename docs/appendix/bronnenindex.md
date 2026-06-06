@@ -1,9 +1,9 @@
 # Bronnenindex
 
-Deze StudyBook is gemaakt op basis van de geüploade cursusdocumenten:
+Deze StudyBook is gemaakt op basis van de volgende cursusdocumenten:
 
-- `Slidepack Introduction to Financial Markets (1).pdf`
-- `08.-Exercises-with-Solutions(1).pdf`
+- `Slidepack Introduction to Financial Markets.pdf`
+- `08.-Exercises-with-Solutions.pdf`
 - `Introduction-to-Financial-Markets-samenvatting.pdf`
 
 ## Waarvoor elk document gebruikt is
@@ -17,3 +17,4 @@ Deze StudyBook is gemaakt op basis van de geüploade cursusdocumenten:
 !!! note "Studietip"
 
     Gebruik deze site als hoofdstructuur. Als een examinator heel specifieke slide-termen gebruikt, controleer dan nog eens de originele slidepack.
+
