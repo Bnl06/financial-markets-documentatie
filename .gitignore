@@ -1,0 +1,12 @@
+# Python / Zensical / MkDocs
+site/
+.cache/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,130 @@
+
+site_name: Introduction to Financial Markets StudyBook
+site_description: Zensical studiegids voor open vragen examen Introduction to Financial Markets.
+site_author: StudyBook
+site_url: https://example.github.io/financial-markets-studybook/
+
+copyright: Copyright &copy; 2026 — Introduction to Financial Markets StudyBook
+
+theme:
+  name: material
+  language: nl
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - content.footnote.tooltips
+    - content.tabs.link
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.path
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+    - search.share
+    - announce.dismiss
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Schakel naar dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Schakel naar light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  logo: assets/images/logo.svg
+  favicon: assets/images/favicon.svg
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+  generator: false
+  status:
+    new: Nieuw toegevoegd
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      permalink_title: Anker
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:zensical.extensions.emoji.to_svg
+      emoji_index: !!python/name:zensical.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - Examen:
+      - Studiepad open vragen: exam/studiepad-open-vragen.md
+      - Antwoordmethode: exam/antwoordmethode.md
+      - Grote vragenbank: exam/open-vragenbank.md
+  - Theorie:
+      - 01 - Het financiële systeem: chapters/01-financial-system.md
+      - 02 - Money & bond analytics: chapters/02-money-bond-analytics.md
+      - 03 - Money & bond markets: chapters/03-money-bond-markets.md
+      - 04 - Equity markets: chapters/04-equity-markets.md
+      - 05 - Risk & return: chapters/05-risk-return.md
+      - 06 - Futures, forwards en swaps: chapters/06-derivatives-futures.md
+      - 07 - Options: chapters/07-derivatives-options.md
+      - 09 - Financial intermediation: chapters/09-financial-intermediation.md
+      - 10 - Banking: chapters/10-banking.md
+      - 11 - Crisis van 2008: chapters/11-financial-crisis-2008.md
+      - 12 - Regulation & supervision: chapters/12-regulation-supervision.md
+  - Oefeningen:
+      - Alle oefeningen uitgewerkt: exercises/oefeningen-uitgewerkt.md
+      - Formules en Excel: exercises/formules-excel.md
+  - Film:
+      - Panic — The Untold Story: film/panic-2008.md
+  - Bijlagen:
+      - Begrippenlijst: appendix/begrippenlijst.md
+      - Formuleblad: appendix/formuleblad.md
+      - Bronnenindex: appendix/bronnenindex.md
