@@ -190,3 +190,37 @@
 .md-footer-meta {
   font-size: 0.78em;
 }
+
+/* Language switcher for GitHub Pages multilingual version */
+.studybook-language-switcher {
+  position: fixed;
+  top: 0.75rem;
+  right: 0.75rem;
+  z-index: 9999;
+}
+.studybook-language-switcher__button {
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 999px;
+  padding: 0.45rem 0.75rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  box-shadow: 0 4px 18px rgba(0,0,0,.12);
+  font-size: 0.72rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+.studybook-language-switcher__button:hover {
+  border-color: var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color);
+}
+@media (max-width: 760px) {
+  .studybook-language-switcher {
+    top: auto;
+    right: 0.6rem;
+    bottom: 0.75rem;
+  }
+  .studybook-language-switcher__button {
+    font-size: 0.68rem;
+    padding: 0.4rem 0.65rem;
+  }
+}

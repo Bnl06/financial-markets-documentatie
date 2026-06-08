@@ -2,9 +2,9 @@
 site_name: Introduction to Financial Markets StudyBook
 site_description: Zensical studiegids voor open vragen examen Introduction to Financial Markets.
 site_author: StudyBook
-site_url: https://example.github.io/financial-markets-studybook/
+site_url: https://USERNAME.github.io/REPOSITORY_NAME/
 
-copyright: Copyright &copy; 2026 — Introduction to Financial Markets StudyBook
+copyright: Copyright &copy; 2026 — Bnl06
 
 theme:
   name: material
@@ -59,6 +59,7 @@ extra_css:
 
 extra_javascript:
   - assets/javascripts/mathjax.js
+  - assets/javascripts/language-switcher.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 extra:
@@ -106,29 +107,58 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-  - Home: index.md
-  - Examen:
-      - Studiepad open vragen: exam/studiepad-open-vragen.md
-      - Antwoordmethode: exam/antwoordmethode.md
-      - Grote vragenbank: exam/open-vragenbank.md
-  - Theorie:
-      - 01 - Het financiële systeem: chapters/01-financial-system.md
-      - 02 - Money & bond analytics: chapters/02-money-bond-analytics.md
-      - 03 - Money & bond markets: chapters/03-money-bond-markets.md
-      - 04 - Equity markets: chapters/04-equity-markets.md
-      - 05 - Risk & return: chapters/05-risk-return.md
-      - 06 - Futures, forwards en swaps: chapters/06-derivatives-futures.md
-      - 07 - Options: chapters/07-derivatives-options.md
-      - 09 - Financial intermediation: chapters/09-financial-intermediation.md
-      - 10 - Banking: chapters/10-banking.md
-      - 11 - Crisis van 2008: chapters/11-financial-crisis-2008.md
-      - 12 - Regulation & supervision: chapters/12-regulation-supervision.md
-  - Oefeningen:
-      - Alle oefeningen uitgewerkt: exercises/oefeningen-uitgewerkt.md
-      - Formules en Excel: exercises/formules-excel.md
-  - Film:
-      - Panic — The Untold Story: film/panic-2008.md
-  - Bijlagen:
-      - Begrippenlijst: appendix/begrippenlijst.md
-      - Formuleblad: appendix/formuleblad.md
-      - Bronnenindex: appendix/bronnenindex.md
+  - Start: index.md
+  - Nederlands:
+      - Home: nl/index.md
+      - Examen:
+          - Studiepad open vragen: nl/exam/studiepad-open-vragen.md
+          - Antwoordmethode: nl/exam/antwoordmethode.md
+          - Grote vragenbank: nl/exam/open-vragenbank.md
+      - Theorie:
+          - 01 - Het financiële systeem: nl/chapters/01-financial-system.md
+          - 02 - Money & bond analytics: nl/chapters/02-money-bond-analytics.md
+          - 03 - Money & bond markets: nl/chapters/03-money-bond-markets.md
+          - 04 - Equity markets: nl/chapters/04-equity-markets.md
+          - 05 - Risk & return: nl/chapters/05-risk-return.md
+          - 06 - Futures, forwards en swaps: nl/chapters/06-derivatives-futures.md
+          - 07 - Options: nl/chapters/07-derivatives-options.md
+          - 09 - Financial intermediation: nl/chapters/09-financial-intermediation.md
+          - 10 - Banking: nl/chapters/10-banking.md
+          - 11 - Crisis van 2008: nl/chapters/11-financial-crisis-2008.md
+          - 12 - Regulation & supervision: nl/chapters/12-regulation-supervision.md
+      - Oefeningen:
+          - Alle oefeningen uitgewerkt: nl/exercises/oefeningen-uitgewerkt.md
+          - Formules en Excel: nl/exercises/formules-excel.md
+      - Film:
+          - Panic — The Untold Story: nl/film/panic-2008.md
+      - Bijlagen:
+          - Begrippenlijst: nl/appendix/begrippenlijst.md
+          - Formuleblad: nl/appendix/formuleblad.md
+          - Bronnenindex: nl/appendix/bronnenindex.md
+  - English:
+      - Home: en/index.md
+      - Exam:
+          - 2-day study path: en/exam/studiepad-open-vragen.md
+          - Answer method: en/exam/antwoordmethode.md
+          - Question bank: en/exam/open-vragenbank.md
+      - Theory:
+          - 01 - The financial system: en/chapters/01-financial-system.md
+          - 02 - Money & bond analytics: en/chapters/02-money-bond-analytics.md
+          - 03 - Money & bond markets: en/chapters/03-money-bond-markets.md
+          - 04 - Equity markets: en/chapters/04-equity-markets.md
+          - 05 - Risk & return: en/chapters/05-risk-return.md
+          - 06 - Futures, forwards and swaps: en/chapters/06-derivatives-futures.md
+          - 07 - Options: en/chapters/07-derivatives-options.md
+          - 09 - Financial intermediation: en/chapters/09-financial-intermediation.md
+          - 10 - Banking: en/chapters/10-banking.md
+          - 11 - 2008 crisis: en/chapters/11-financial-crisis-2008.md
+          - 12 - Regulation & supervision: en/chapters/12-regulation-supervision.md
+      - Exercises:
+          - All worked exercises: en/exercises/oefeningen-uitgewerkt.md
+          - Formulas and Excel: en/exercises/formules-excel.md
+      - Film:
+          - Panic — The Untold Story: en/film/panic-2008.md
+      - Appendices:
+          - Glossary: en/appendix/begrippenlijst.md
+          - Formula sheet: en/appendix/formuleblad.md
+          - Sources index: en/appendix/bronnenindex.md
