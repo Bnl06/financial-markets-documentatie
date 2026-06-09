@@ -21,10 +21,6 @@ Het voorbeeldexamen toont dat je **brede begrippenkennis** én **rekenvaardighei
 | 14b-16 | Invulbegrippen | Unit 3/10 | Covenants, negative pledge, ABS. |
 | 17-20 | MC/definitie | Unit 4/10/12 | Index, regulation tools, arranger, active funds. |
 
-
-!!! warning "Controleer met officiële cursusdocumenten"
-    In het voorbeeldfragment lijkt de correlatie bij vraag 13 als `-0.50%` te staan. In financiële oefeningen bedoelt men vaak `-0.50` als correlatiecoëfficiënt. Controleer de officiële versie of instructies voordat je het exacte getal overneemt.
-
 ## Belangrijkste conclusies
 
 - De examinator vraagt vaak **één detail dat je exact moet herkennen**: BBB, Single B, market order, stop-loss, arranger.

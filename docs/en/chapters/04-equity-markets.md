@@ -1,4 +1,55 @@
+> **English variant** — This page is prepared for GitBook Variants. Financial key terms are kept close to the course terminology. Always verify formulas and official definitions with the Dutch/original course version.
+
 # Unit 4 — Equity Markets
+
+!!! abstract "Core sentence"
+
+    Equity markets laten bedrijven equity ophalen en geven beleggers eigendomsrechten, stemrechten en potentiële dividenden.
+
+## 1. Aandeelhouders en hun rechten
+
+Een share is een eigendomsclaim op een onderneming. Aandeelhouders hebben meestal recht op:
+
+- stemrecht op algemene vergadering;
+- dividend als de onderneming winst uitkeert;
+- residuele claim bij vereffening, na schuldeisers;
+- mogelijkheid om hun share te verkopen op de secundaire markt.
+
+Debt holders hebben een contractuele claim. Equity holders dragen meer risk, maar hebben ook meer upside.
+
+## 2. Primary en secondary market
+
+**Primary market**: het bedrijf geeft nieuwe shares uit en ontvangt kapitaal.  
+**Secondary market**: beleggers handelen bestaande shares onder elkaar. Het bedrijf ontvangt dan normaal geen nieuw geld, maar de markt zorgt voor liquiditeit en prijsinformatie.
+
+## 3. Beurs en trading
+
+De beurs zorgt voor transparantie, matching van kopers en verkopers, regels en supervision. Prijzen ontstaan door vraag en aanbod.
+
+## 4. Valuation: dividend discount model
+
+Als een share vanaf volgend jaar dividend betaalt dat constant groeit, kan je waarderen met de growing perpetuity:
+
+$$V=\frac{D_1}{r-g}$$
+
+Example: dividend volgend jaar = 3, required return = 10%, groei = 2%.
+
+$$V=\frac{3}{0.10-0.02}=37.5$$
+
+## 5. Indexes
+
+Een index vat de evolutie van een markt of segment samen. Exampleen zijn brede sharesindices. Een index helpt om performance te meten, benchmarks te maken en passief beleggen mogelijk te maken.
+
+## Exam focus
+
+Leg het verschil uit tussen debt en equity. Debt heeft vaste contractuele betalingen en prioriteit; equity is residueel, riskvoller en geeft eigendomsrechten.
+
+---
+
+## Exam addendum — added without removing the existing documentation
+
+!!! note "Non-destructive update"
+    The original documentation above has deliberately been preserved. This addendum adds exam focus, extra terms, model answers and common mistakes without replacing the existing explanation.
 
 !!! abstract "Core sentence"
     Equity Markets deal with shares, shareholder rights, orders, indices and valuation.

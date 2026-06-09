@@ -1,4 +1,53 @@
-# Unit 6 — Forwards, Futures and Swaps
+> **English variant** — This page is prepared for GitBook Variants. Financial key terms are kept close to the course terminology. Always verify formulas and official definitions with the Dutch/original course version.
+
+# Unit 6 — Derivatives: Forwards, Futures and Swaps
+
+!!! abstract "Core sentence"
+
+    Derivaten halen hun waarde uit een onderliggende waarde. Ze worden gebruikt voor hedging, speculatie en arbitrage.
+
+## 1. Derivative
+
+Een derivative is een contract waarvan de waarde afhangt van een underlying asset, zoals een share, rente, valuta of commodity.
+
+## 2. Forward contract
+
+Een forward is een overeenkomst vandaag om in de toekomst een asset te kopen of verkopen tegen een vooraf bepaalde prijs. Het contract is meestal OTC en maatwerk.
+
+Arbitrage-free forward price without income:
+
+$$F=S(1+r)^T$$
+
+Example: spot price = 250, interest = 2,3%, maturity = 1 jaar.
+
+$$F=250(1.023)=255.75$$
+
+## 3. Futures
+
+Een future lijkt op een forward, maar is gestandaardiseerd en wordt verhandeld op een beurs. Futures hebben marking-to-market en margin requirements, waardoor counterparty risk lager is dan bij forwards.
+
+## 4. Hedging met futures
+
+A company facing future uncertainty can use futures to lock in a price. For example, an importer that will need dollars later can use currency futures to reduce exchange-rate risk.
+
+## 5. Swaps
+
+A swap is a contract in which parties exchange cash flows. A well-known example is an interest rate swap, where fixed interest is exchanged for floating interest.
+
+## 6. Arbitrage
+
+Arbitrage is profit without risk and without net investment. In efficient markets, arbitrage opportunities disappear quickly because traders exploit them.
+
+## Exam focus
+
+Leg het verschil uit tussen hedging en speculatie. Bij hedging gebruik je derivaten om een bestaand risk te verminderen. Bij speculatie neem je juist risk om winst te maken.
+
+---
+
+## Exam addendum — added without removing the existing documentation
+
+!!! note "Non-destructive update"
+    The original documentation above has deliberately been preserved. This addendum adds exam focus, extra terms, model answers and common mistakes without replacing the existing explanation.
 
 !!! abstract "Core sentence"
     Forwards, futures and swaps allow hedging or speculation on future prices.
@@ -46,7 +95,7 @@ For open questions, use this structure: **definition → mechanism → example �
 
 ## Sample questions with short model answers
 
-??? question "Waarom heeft een future minder tegenpartijrisico dan een forward?"
+??? question "Why heeft een future minder tegenpartijrisico dan een forward?"
     **Short model answer:** Door standaardisatie, clearing house, margins en dagelijkse afrekening.
 ??? question "Wanneer gebruik je hedging?"
     **Short model answer:** Wanneer je een bestaand prijs-, rente- of valutarisico wil verminderen.

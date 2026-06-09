@@ -1,4 +1,60 @@
+> **English variant** — This page is prepared for GitBook Variants. Financial key terms are kept close to the course terminology. Always verify formulas and official definitions with the Dutch/original course version.
+
 # Unit 5 — Risk and Return
+
+!!! abstract "Core sentence"
+
+    Rendement is de beloning voor risk, maar niet elk risk wordt even beloond. Diversificatie vermindert specifiek risk.
+
+## 1. Return
+
+Return meet hoeveel een belegging opbrengt tegenover de initiële investering. Bij meerdere jaren gebruik je compound growth.
+
+$$V_T=V_0(1+r_1)(1+r_2)...(1+r_T)$$
+
+De jaarlijkse groeivoet is de rate die startwaarde omzet naar eindwaarde.
+
+## 2. Risk
+
+Risk betekent onzekerheid over toekomstige uitkomsten. In financial markets wordt risk vaak gemeten met variance en standard deviation.
+
+- **Variance**: gemiddelde kwadratische afwijking van het gemiddelde.
+- **Standard deviation / volatility**: wortel van variance.
+
+## 3. Arithmetic average versus growth rate
+
+De arithmetic average is het gewone gemiddelde van returns. De growth rate houdt rekening met compounding en is meestal lager bij volatiliteit.
+
+!!! warning "Exam pitfall"
+
+    Een gemiddelde return van +50% en -50% is 0%, maar je kapitaal gaat van 100 naar 150 en daarna naar 75. Je eindigt dus met verlies.
+
+## 4. Portfolio theory
+
+A portfolio combines assets. The expected return is the weighted average:
+
+$$E(r_p)=w_AE(r_A)+w_BE(r_B)$$
+
+De variantie hangt ook af van correlatie:
+
+$$\sigma_p^2=w_A^2\sigma_A^2+w_B^2\sigma_B^2+2w_Aw_B\sigma_A\sigma_B\rho_{AB}$$
+
+Lage of negatieve correlatie verlaagt portfolio risk.
+
+## 5. Diversification
+
+Diversificatie werkt omdat niet alle assets tegelijk op dezelfde manier bewegen. Als correlatie lager is dan 1, kan een portfolio minder riskvol zijn dan het gewogen gemiddelde van individuele risk's.
+
+## Exam focus
+
+Je moet kunnen explain dat portfolio risk niet alleen afhangt van individuele volatilities, maar ook van correlaties. Dat is de kern van diversificatie.
+
+---
+
+## Exam addendum — added without removing the existing documentation
+
+!!! note "Non-destructive update"
+    The original documentation above has deliberately been preserved. This addendum adds exam focus, extra terms, model answers and common mistakes without replacing the existing explanation.
 
 !!! abstract "Core sentence"
     Risk and Return measures return, volatility and portfolio diversification.
@@ -45,7 +101,7 @@ For open questions, use this structure: **definition → mechanism → example �
 
 ## Sample questions with short model answers
 
-??? question "Waarom is correlatie belangrijk?"
+??? question "Why is correlatie belangrijk?"
     **Short model answer:** Ze bepaalt hoeveel risico wegvalt wanneer activa worden gecombineerd.
 ??? question "Wat gebeurt bij negatieve correlatie?"
     **Short model answer:** Portefeuillerisico kan sterk dalen omdat verliezen deels worden gecompenseerd.

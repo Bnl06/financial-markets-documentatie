@@ -1,4 +1,60 @@
+> **English variant** — This page is prepared for GitBook Variants. Financial key terms are kept close to the course terminology. Always verify formulas and official definitions with the Dutch/original course version.
+
 # Unit 9 — Financial Intermediation
+
+!!! abstract "Core sentence"
+
+    Financiële intermediairs staan tussen savers en borrowers en transformeren geld op vlak van maturity, risk, liquidity en size.
+
+## 1. Waarom intermediairs bestaan
+
+Savers willen vaak veilige, liquide en kleine beleggingen. Borrowers willen vaak grote, langlopende financiering. Intermediairs lossen deze mismatch op.
+
+## 2. Transformatiefuncties
+
+| Transformatie | Explanation | Example |
+|---|---|---|
+| Maturity transformation | korte funding naar lange loans | deposits → hypotheekleningen |
+| Risk transformation | risk spreiden en beheren | bank beoordeelt kredietrisk |
+| Size transformation | kleine bedragen bundelen | veel deposits → grote bedrijfslening |
+| Liquidity transformation | liquide claims aanbieden | spaarder kan geld opnemen, loan loopt lang |
+
+## 3. Depository institutions
+
+Banken nemen deposits aan en geven leningen. Hierdoor zijn ze belangrijk voor betalingsverkeer en kredietverlening.
+
+## 4. Non-depository institutions
+
+Exampleen:
+
+- verzekeringsmaatschappijen;
+- pensioenfondsen;
+- mutual funds;
+- hedge funds;
+- private equity en venture capital.
+
+## 5. Mutual funds
+
+Een mutual fund bundelt geld van beleggers en investeert in een portfolio. Beleggers krijgen certificaten of units. Het voordeel is diversificatie en professioneel beheer.
+
+## 6. Insurance companies
+
+Verzekeraars ontvangen premies en bouwen technical provisions op om toekomstige claims te betalen. Life insurance hangt samen met sterfterisk; non-life insurance met schade zoals auto, brand of aansprakelijkheid.
+
+## 7. Alternative investments
+
+Alternative investments zijn minder traditioneel, vaak minder liquide en soms complexer. Exampleen zijn private equity, hedge funds, real estate en commodities.
+
+## Exam focus
+
+Verbind intermediation altijd met balance sheetlogica: wat voor de klant een asset is, staat bij de instelling vaak als liability op de balance sheet.
+
+---
+
+## Exam addendum — added without removing the existing documentation
+
+!!! note "Non-destructive update"
+    The original documentation above has deliberately been preserved. This addendum adds exam focus, extra terms, model answers and common mistakes without replacing the existing explanation.
 
 !!! abstract "Core sentence"
     Financial Intermediation explains why institutions are needed to manage information, risk and maturity problems.
@@ -45,7 +101,7 @@ For open questions, use this structure: **definition → mechanism → example �
 
 ## Sample questions with short model answers
 
-??? question "Waarom bestaan financiële intermediairs?"
+??? question "Why bestaan financial intermediarys?"
     **Short model answer:** Ze verminderen transactiekosten, informatieproblemen en risico’s en voeren maturity/risk transformation uit.
 ??? question "Wat is shadow banking?"
     **Short model answer:** Kredietintermediatie buiten klassieke bankregulering.

@@ -1,9 +1,22 @@
-# Sources index
+> **English variant** — This page is prepared for GitBook Variants. Financial key terms are kept close to the course terminology. Always verify formulas and official definitions with the Dutch/original course version.
 
-- Slide pack *Introduction to Financial Markets*: used for units, exam format and terminology.
-- *08. Exercises with Solutions*: used for calculation focus and practice questions.
-- 2022 sample-exam excerpt: used for question types and priorities.
-- Exam images: used for exam format and focus.
+# Source index
 
-!!! warning "Check with the official course documents"
-    This StudyBook is a study aid. In case of conflict, Blackboard, official slides and the lecturer’s instructions prevail.
+Deze StudyBook is gemaakt op basis van de volgende cursusdocumenten:
+
+- `Slidepack Introduction to Financial Markets.pdf`
+- `08.-Exercises-with-Solutions.pdf`
+- `Introduction-to-Financial-Markets-samenvatting.pdf`
+
+## Waarvoor elk document gebruikt is
+
+| Document | Gebruik in deze site |
+|---|---|
+| Slidepack | Structuur van de units, kernbegrippen, course content |
+| Summary | Uitgebreide uitleg, voorbeelden, filmnotities, Dutch verduidelijking |
+| Exercises with solutions | Exercises 1-17 met berekeningen en answeren |
+
+!!! note "Studietip"
+
+    Gebruik deze site als hoofdstructuur. Als een examinator heel specifieke slide-termen gebruikt, controleer dan nog eens de originele slidepack.
+

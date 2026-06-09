@@ -1,4 +1,91 @@
+> **English variant** — This page is prepared for GitBook Variants. Financial key terms are kept close to the course terminology. Always verify formulas and official definitions with the Dutch/original course version.
+
 # Unit 12 — Regulation and Supervision
+
+!!! abstract "Core sentence"
+
+    Regulering legt regels op; supervisie controleert of instellingen veilig werken. Na 2008 werd supervision sterker door systeemrisk en too-big-to-fail-problemen.
+
+## 1. Banking is risky business
+
+Banken lopen verschillende risk's.
+
+### Investment risk
+
+- **Credit/default risk**: debtor betaalt niet op tijd.
+- **Market/price risk**: waarde van assets/liabilities verandert door marktfactoren.
+- **Interest rate risk**: renteverandering beïnvloedt bond prices en marges.
+- **Credit spread risk**: risk premium verandert.
+- **Stock/commodity/forex risk**: marktprijzen bewegen.
+- **Inflation risk**: koopkracht en cashflows worden beïnvloed.
+- **Reinvestment risk**: toekomstige cashflows kunnen alleen tegen lagere rente worden herbelegd.
+- **Liquidity risk**: bank kan niet tijdig aan verplichtingen voldoen.
+- **Operational risk**: verliezen door mensen, processen, systemen of fouten.
+- **Legal/regulatory risk**: verliezen door juridische of regelgevende problemen.
+
+### Business/funding risk
+
+- financial leverage risk;
+- funding liquidity risk;
+- timing risk;
+- fixed-floating financing risk.
+
+### Systemic risk
+
+Systemic risk betekent dat problemen bij één instelling of markt overslaan naar het hele systeem.
+
+## 2. Regulators
+
+Na eerdere crises en vooral na 2008 kwamen sterkere regels. Importante domeinen:
+
+- capital requirements;
+- liquidity requirements;
+- disclosure;
+- market discipline;
+- recovery and resolution;
+- bescherming van depositors en payment system.
+
+## 3. Basel-logica
+
+Basel-regels draaien rond voldoende kapitaal, supervision en marktdiscipline.
+
+| Pijler | Explanation |
+|---|---|
+| Pillar 1 | minimum capital requirements |
+| Pillar 2 | supervisory review process |
+| Pillar 3 | market discipline/disclosure |
+
+## 4. European Banking Union
+
+The Banking Union consists of mechanisms that make banks safer and reduce national fragmentation.
+
+- **SSM — Single Supervisory Mechanism**: the ECB and national supervisors work together. Large banks are directly supervised by the ECB.
+- **SRM — Single Resolution Mechanism**: moet bankfalen ordelijk oplossen zodat overheden minder snel moeten bail-outen.
+- **EDIS**: Europees depositogarantiestelsel, nog politiek gevoelig/niet volledig actief.
+
+## 5. Too big to fail versus too interconnected to fail
+
+Niet alleen grootte telt. Een instelling kan gevaarlijk zijn omdat ze extreem verbonden is met andere instellingen. Als zij valt, kan een domino-effect ontstaan.
+
+## 6. Supervision
+
+Supervisie gebeurt via:
+
+- off-site monitoring;
+- on-site inspections;
+- review van interne modellen;
+- event-driven activities, bijvoorbeeld crisismanagement of management changes.
+
+## Exam focus
+
+Leg uit waarom regels alleen niet genoeg zijn. Regulering bepaalt de regels, maar supervisie moet controleren of banks ze juist toepassen en of nieuwe risk's ontstaan.
+
+---
+
+## Exam addendum — added without removing the existing documentation
+
+!!! note "Non-destructive update"
+    The original documentation above has deliberately been preserved. This addendum adds exam focus, extra terms, model answers and common mistakes without replacing the existing explanation.
 
 !!! abstract "Core sentence"
     Regulation and Supervision uses rules and oversight to limit misconduct, bank failure and systemic risk.
@@ -45,7 +132,7 @@ For open questions, use this structure: **definition → mechanism → example �
 
 ??? question "Hoe bouwen regulators een safe and sound systeem?"
     **Short model answer:** Via deposit insurance, kapitaalbuffers, liquiditeitsvereisten, herstelplannen en toezicht.
-??? question "Waarom kan deposit insurance moral hazard creëren?"
+??? question "Why kan deposit insurance moral hazard creëren?"
     **Short model answer:** Deposanten monitoren minder en banken kunnen meer risico nemen als bescherming te sterk aanvoelt.
 
 ## Links with other units

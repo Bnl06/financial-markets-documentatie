@@ -1,8 +1,32 @@
-# Introduction to Financial Markets StudyBook
+---
+title: Kies je taal / Choose your language
+hide:
+  - navigation
+  - toc
+---
 
-Welkom. Kies een taal:
+# Introduction to Financial Markets — StudyBook
 
-- [Nederlands](nl/index.md)
-- [English](en/index.md)
+<div class="grid cards" markdown>
 
-Deze StudyBook is aangepast aan de examenfocus: begrippen, verbanden, kleine oefeningen, voorbeeldexamenanalyse en oefenexamens.
+-   :flag_be: __Nederlands__
+
+    ---
+
+    Hoofdversie voor het studeren met het 2-daags noodplan.
+
+    [:octicons-arrow-right-24: Open Nederlandse versie](nl/index.md)
+
+-   :flag_gb: __English__
+
+    ---
+
+    English version for recognising and practising the financial market terminology.
+
+    [:octicons-arrow-right-24: Open English version](en/index.md)
+
+</div>
+
+!!! tip "Taal wisselen zonder je plaats te verliezen"
+
+    Gebruik de vaste taal-knop rechtsboven. De site bewaart je scrollpositie als percentage en opent dezelfde pagina in de andere taal op ongeveer dezelfde plek.

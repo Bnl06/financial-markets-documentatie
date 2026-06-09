@@ -21,10 +21,6 @@ The sample exam shows that you need **broad concept knowledge** and **calculatio
 | 14b-16 | Fill-in terms | Unit 3/10 | Covenants, negative pledge, ABS. |
 | 17-20 | MC/definition | Unit 4/10/12 | Index, regulation tools, arranger, active funds. |
 
-
-!!! warning "Check with the official course documents"
-    In the sample excerpt, the correlation in question 13 appears as `-0.50%`. In finance exercises this often means `-0.50` as a correlation coefficient. Check the official version or instructions before copying the exact number.
-
 ## Main conclusions
 
 - The examiner often asks for **one exact detail**: BBB, Single B, market order, stop-loss, arranger.

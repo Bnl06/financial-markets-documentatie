@@ -1,4 +1,120 @@
+> **English variant** — This page is prepared for GitBook Variants. Financial key terms are kept close to the course terminology. Always verify formulas and official definitions with the Dutch/original course version.
+
 # Unit 1 — The Financial System
+
+!!! abstract "Core sentence"
+
+    The financial system brengt geld van **haves** naar **havenots**: van partijen met overschotten naar partijen die financiering nodig hebben.
+
+## 1. Actors: haves en havenots
+
+**Haves** hebben kapitaal over en kunnen geld uitlenen of investeren. Exampleen zijn huishoudens, pensioenfondsen en beleggers. **Havenots** hebben meer plannen of behoeften dan geld en moeten kapitaal ophalen. Exampleen zijn bedrijven, overheden en huishoudens die een huis kopen.
+
+Op macro-economisch niveau zijn **households** cruciaal. Zij zijn uiteindelijk de eigenaars van veel activa en dragen uiteindelijk ook veel risk. Zelfs als een bank of fonds tussenkomt, komt het geld vaak oorspronkelijk van gezinnen via deposits, pensioenbijdragen of beleggingen.
+
+## 2. Household balance sheet
+
+Een balance sheet toont links de **assets** en rechts de **liabilities** plus net wealth.
+
+$$\text{Net wealth} = \text{assets} - \text{liabilities}$$
+
+Example: een gezin heeft een huis van 100 en een hypotheekschuld van 80. De net wealth is 20.
+
+| Assets | Liabilities |
+|---|---|
+| Real estate | Mortgage loan |
+| Cars | Consumer loans |
+| Stocks | Tax debt |
+| Bonds |  |
+| Mutual funds |  |
+| Deposits en cash | Net wealth |
+
+## 3. Soorten assets
+
+Een **asset** is een bezit dat waarde heeft in een ruiltransactie.
+
+- **Tangible/real assets**: fysieke activa zoals huizen, auto's, machines.
+- **Intangible assets**: value through a legal right, bijvoorbeeld een patent.
+- **Financial assets**: a claim on future cash flows, bijvoorbeeld shares, bonds of deposits.
+
+!!! example "Example"
+
+    Een share is geen fysiek bezit van een machine. Het is een financieel actief omdat het een eigendomsclaim is op een onderneming en mogelijk toekomstige dividenden geeft.
+
+## 4. Asset classes
+
+**Traditional asset classes** zijn common stock, bonds en cash/cash equivalents. **Alternative investments** zijn real estate, commodities, private equity, hedge funds, venture capital en currencies/forex.
+
+Het verschil is belangrijk omdat elke asset class een ander risk-returnsprofiel heeft. Cash is meestal liquide en relatief veilig, terwijl private equity minder liquide en riskvoller is.
+
+## 5. Growth drivers in net wealth
+
+Net wealth verandert door:
+
+1. waardeveranderingen van assets en liabilities;
+2. netto-inkomen uit arbeid, kapitaal of transfers;
+3. erfenissen en giften.
+
+Als sharesmarkten stijgen, stijgt het vermogen van wie shares bezit. Bij een crash kan dat vermogen snel verdampen.
+
+## 6. Corporates: equity, debt en leverage
+
+Bedrijven financieren activa met **equity** en **debt**. Equity komt van sharehouders. Debt komt van leningen, bonds of trade credit.
+
+**Leverage** betekent dat een bedrijf geleend geld gebruikt om meer activa te controleren. Dat kan ROE verhogen, maar ook verliezen versterken.
+
+| Term | Meaning |
+|---|---|
+| ROA | return on assets = profit/assets |
+| ROE | return on equity = profit/equity |
+| Gearing | long-term debt / equity |
+| Leverage multiplier | assets / equity |
+
+Example: assets = 300, equity = 100, debt = 200. Gearing = 200/100 = 2. Leverage multiplier = 300/100 = 3.
+
+## 7. Banken versus bedrijven
+
+Een normale onderneming heeft vaak relatief meer equity. Een bank heeft typisch veel liabilities omdat deposits voor de bank schulden zijn. Wat voor jou een asset is, is voor de bank een liability.
+
+!!! warning "Important voor exam"
+
+    Een bankbalance sheet is kwetsbaar omdat banks veel leverage gebruiken en omdat deposits opvraagbaar zijn. Als veel klanten tegelijk geld willen, ontstaat liquidity risk of een bank run.
+
+## 8. Direct, semi-direct en indirect finance
+
+```mermaid
+flowchart LR
+    H[Haves / savers] -->|direct finance| B[Borrowers]
+    H -->|deposits| Bank[Financial intermediary]
+    Bank -->|loans| B
+    H -->|securities kopen| Market[Financial markets]
+    Market -->|kapitaal na fee| B
+```
+
+- **Direct finance**: geld gaat rechtstreeks van lender naar borrower.
+- **Semi-direct finance**: markt of investment bank helpt bij uitgifte van securities en krijgt een fee.
+- **Indirect finance**: financial intermediary staat ertussen, bijvoorbeeld een bank die deposits ontvangt en leningen geeft.
+
+## 9. Rol van de overheid
+
+De overheid reguleert omdat financial markets kunnen falen. Importante rollen:
+
+- disclosure regulation: informatieplicht om fraude te vermijden;
+- market conduct regulation: trading rules en insider trading bestrijden;
+- financial institution regulation: banks en betalingssystemen veilig houden;
+- monetary policy via centrale bank;
+- bail-outs in crisissituaties.
+
+## Exam focus
+
+Je moet kunnen explain hoe geld van spaarders naar borrowers stroomt, hoe balance sheetstructuren verschillen en waarom banks door hun leverage en liquiditeitsfunctie speciaal supervision nodig hebben.
+
+---
+
+## Exam addendum — added without removing the existing documentation
+
+!!! note "Non-destructive update"
+    The original documentation above has deliberately been preserved. This addendum adds exam focus, extra terms, model answers and common mistakes without replacing the existing explanation.
 
 !!! abstract "Core sentence"
     The financial system channels funds from haves to havenots through markets and intermediaries.
@@ -67,10 +183,10 @@ For open questions, use this structure: **definition → mechanism → example �
 
 ## Sample questions with short model answers
 
-??? question "Vergelijk direct en indirect finance."
-    **Short model answer:** Direct finance linkt spaarder en ontlener rechtstreeks via effecten; indirect finance loopt via balans van een intermediair, bv. deposito naar banklening.
-??? question "Waarom zijn huishoudens cruciaal?"
-    **Short model answer:** Ze zijn ultieme eigenaars van activa en dragen uiteindelijk risico in het systeem.
+??? question "Compare direct and indirect finance."
+    **Short model answer:** Direct finance links saver and borrower directly through securities; indirect finance runs through an intermediary balance sheet, for example deposits transformed into bank loans.
+??? question "Why are households crucial?"
+    **Short model answer:** They are the ultimate owners of assets and ultimately bear risk in the system.
 
 ## Links with other units
 

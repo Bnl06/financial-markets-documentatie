@@ -1,4 +1,58 @@
-# Unit 10 — Banking
+> **English variant** — This page is prepared for GitBook Variants. Financial key terms are kept close to the course terminology. Always verify formulas and official definitions with the Dutch/original course version.
+
+# Unit 10 — Commercial and Investment Banking
+
+!!! abstract "Core sentence"
+
+    Commercial banking draait rond deposits, leningen en betalingsverkeer; investment banking draait rond kapitaalmarkten, emissies, trading en advies.
+
+## 1. Commercial banking
+
+Commercial banks nemen deposits aan, verstrekken kredieten, beheren betalingsverkeer en verdienen aan interestmarge en fees.
+
+De klassieke bank werd soms de **3/6/3 business** genoemd: geld aantrekken tegen 3%, uitlenen tegen 6% en om 3 uur naar de golfclub. Dit beeld toont hoe simpel banking vroeger leek, maar moderne banking is veel riskvoller en complexer.
+
+## 2. Banking book versus trading book
+
+| Boek | Meaning | Risico |
+|---|---|---|
+| Banking book | leningen en posities om aan te houden | credit risk, interest rate risk |
+| Trading book | posities voor handel/market making | market risk, liquidity risk |
+
+## 3. Investment banking
+
+Investment banks helpen bedrijven en overheden met:
+
+- uitgifte van shares of bonds;
+- mergers & acquisitions;
+- underwriting;
+- market making;
+- trading;
+- structured finance;
+- advisory services.
+
+## 4. Market making
+
+Een market maker noteert bid en ask prijzen en zorgt voor liquiditeit. Winst komt uit bid-ask spread, maar er is risk omdat de market maker inventory aanhoudt waarvan de waarde kan veranderen.
+
+## 5. Proprietary trading en Volcker rule
+
+Proprietary trading betekent handelen voor eigen rekening. Na de crisis kwam er discussie omdat banks met risk's konden spelen terwijl het systeem impliciet beschermd werd. De Volcker rule beperkt bepaalde vormen van prop trading.
+
+## 6. Private banking en investment management
+
+Private banking richt zich op vermogende klanten. Investment management beheert portefeuilles, mutual funds of pensioenfondsen.
+
+## Exam focus
+
+Je moet commercial banking en investment banking kunnen vergelijken en explain waarom het combineren van beide activiteiten risk's kan verhogen.
+
+---
+
+## Exam addendum — added without removing the existing documentation
+
+!!! note "Non-destructive update"
+    The original documentation above has deliberately been preserved. This addendum adds exam focus, extra terms, model answers and common mistakes without replacing the existing explanation.
 
 !!! abstract "Core sentence"
     Banking shows how banks earn income, bear risks and become fragile through their balance sheets.
@@ -48,8 +102,8 @@ For open questions, use this structure: **definition → mechanism → example �
 
 ??? question "Wat doet een arranger in een syndicated deal?"
     **Short model answer:** Hij structureert/onderwritet de lening en plaatst delen bij andere investeerders/banken.
-??? question "Waarom zijn banken sterk leveraged?"
-    **Short model answer:** Omdat deposito’s en andere schulden een groot deel van hun financiering vormen.
+??? question "Why zijn banken sterk leveraged?"
+    **Short model answer:** Omdat deposits en andere schulden een groot deel van hun financiering vormen.
 
 ## Links with other units
 

@@ -1,4 +1,59 @@
-# Unit 7 — Options
+> **English variant** — This page is prepared for GitBook Variants. Financial key terms are kept close to the course terminology. Always verify formulas and official definitions with the Dutch/original course version.
+
+# Unit 7 — Derivatives: Options
+
+!!! abstract "Core sentence"
+
+    Een optie geeft een recht, geen verplichting. De koper betaalt een premie; de schrijver ontvangt de premie maar neemt verplichtingen op zich.
+
+## 1. Call en put
+
+| Optie | Recht voor koper | Verwachting koper |
+|---|---|---|
+| Call | kopen tegen strike price | underlying stijgt |
+| Put | verkopen tegen strike price | underlying daalt |
+
+## 2. Long en short
+
+- **Long option**: je koopt de optie en betaalt premium.
+- **Short option / write option**: je schrijft de optie en ontvangt premium, maar je moet leveren of afnemen als de koper uitoefent.
+
+## 3. Payoff en profit
+
+Call payoff:
+
+$$\max(0,S_T-K)$$
+
+Put payoff:
+
+$$\max(0,K-S_T)$$
+
+Profit houdt ook rekening met de premium.
+
+## 4. Break-even
+
+Bij een long call is break-even:
+
+$$K+premium$$
+
+Bij een long put is break-even:
+
+$$K-premium$$
+
+## 5. Protective put en hedging
+
+Een belegger kan een put kopen om een minimum verkoopprijs te verzekeren. Dit werkt als verzekering: je betaalt premium en beperkt downside risk.
+
+## Exam focus
+
+Je moet kunnen explain waarom een optie asymmetrisch is. De koper heeft beperkt verlies tot de premium, maar mogelijke winst kan groter zijn. De schrijver heeft het omgekeerde profiel.
+
+---
+
+## Exam addendum — added without removing the existing documentation
+
+!!! note "Non-destructive update"
+    The original documentation above has deliberately been preserved. This addendum adds exam focus, extra terms, model answers and common mistakes without replacing the existing explanation.
 
 !!! abstract "Core sentence"
     Options combine rights, premiums, payoffs and break-even points; payoff and profit are not the same.
