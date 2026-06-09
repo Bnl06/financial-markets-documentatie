@@ -2,7 +2,7 @@
 site_name: Introduction to Financial Markets StudyBook
 site_description: Zensical studiegids voor open vragen examen Introduction to Financial Markets.
 site_author: StudyBook
-site_url: https://bnl06.github.io/financial-markets-documentatie/
+site_url: https://USERNAME.github.io/REPOSITORY_NAME/
 
 copyright: Copyright &copy; 2026 — Bnl06
 
@@ -60,7 +60,7 @@ extra_css:
 extra_javascript:
   - assets/javascripts/mathjax.js
   - assets/javascripts/language-switcher.js
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 extra:
   generator: false
