@@ -1,70 +1,59 @@
-> **English variant** — Checked against the course slide pack, the exercise solutions and the Dutch summary. Key financial terms follow the terminology used in *Introduction to Financial Markets*.
+# Unit 11 — The 2008 Financial Crisis
 
-# Unit 11 — The Financial Crisis of 2008
+!!! abstract "Core sentence"
+    The 2008 crisis connects leverage, securitisation, shadow banking, trust and government intervention.
 
-!!! abstract "Key idea"
+## What should you be able to do on the exam?
 
-    The 2008 crisis resulted from a combination of cheap credit, rising house prices, securitization, leverage, complexity, loss of confidence and interconnectedness.
+- Explain securitisation from mortgages to MBS/CDO/ABS.
+- Connect subprime and ratings to mispriced risk.
+- Use the film Panic to discuss decisions and trade-offs.
+- Explain systemic risk, contagion, too big to fail and bail-outs.
 
-## 1. Glass-Steagall
+## Core mechanism
 
-The Glass-Steagall Act of 1933 separated commercial banking from investment banking after the banking problems of the 1930s. Its repeal in 1999 allowed financial groups to combine retail and investment banking again through financial holding companies.
+For open questions, use this structure: **definition → mechanism → example → consequence/link with other units**. This shows that you know relationships, not just isolated terms.
 
-Critics argue that this removed a firewall and contributed to riskier combinations inside the financial system.
+## Formulas and calculation focus
 
-## 2. Securitization and MBS
+- No core formula; focus on conceptual relationships.
 
-Mortgages were pooled and sold as mortgage-backed securities. The basic idea is logical: spread risk and attract funding. The problem arose when the underlying mortgages became weaker and investors did not sufficiently understand what was inside the packages.
+!!! warning "Common mistakes"
+    - Giving only a definition without linking it to markets or institutions.
+    - Using a formula without stating the rate convention or time period.
+    - Confusing payoff and profit for options.
+    - Memorising ratings, index weights or order types without being able to apply them.
 
-```mermaid
-flowchart LR
-    H[Home buyers] --> M[Mortgage sellers]
-    M --> B[Banks]
-    B --> S[Securitization/MBS]
-    S --> I[Investors worldwide]
-```
+## Terms by unit
 
-## 3. Housing bubble
+| Term | Dutch term | Definition | Exam relevance | Related to |
+| --- | --- | --- | --- | --- |
+| financial crisis | financial crisis | Severe disruption of the financial system with credit, liquidity and confidence problems. | Can be asked as a definition, comparison or application in Unit 11 — The 2008 Financial Crisis. | systemic risk |
+| subprime mortgage | subprime mortgage | Mortgage granted to a riskier borrower. | Can be asked as a definition, comparison or application in Unit 11 — The 2008 Financial Crisis. | 2008 crisis |
+| securitisation | securitisation | Pooling assets and issuing securities backed by their cash flows. | Can be asked as a definition, comparison or application in Unit 11 — The 2008 Financial Crisis. | ABS |
+| mortgage-backed security | MBS | Security backed by a pool of mortgages. | Can be asked as a definition, comparison or application in Unit 11 — The 2008 Financial Crisis. | securitisation |
+| collateralised debt obligation | CDO | Structured product based on tranches of debt instruments. | Can be asked as a definition, comparison or application in Unit 11 — The 2008 Financial Crisis. | ratings |
+| rating agency | rating agency | Institution assessing credit quality of securities/entities. | Can be asked as a definition, comparison or application in Unit 11 — The 2008 Financial Crisis. | investment grade |
+| too big to fail | too big to fail | Institution so important that failure could damage the system. | Can be asked as a definition, comparison or application in Unit 11 — The 2008 Financial Crisis. | bail-out; SIFI |
+| bail-out | bail-out | Government support to rescue a failing institution. | Can be asked as a definition, comparison or application in Unit 11 — The 2008 Financial Crisis. | moral hazard |
+| systemic risk | systemic risk | Risk that problems spread through the financial system. | Can be asked as a definition, comparison or application in Unit 11 — The 2008 Financial Crisis. | contagion |
+| contagion | contagion | Transmission of problems from one institution/market to others. | Can be asked as a definition, comparison or application in Unit 11 — The 2008 Financial Crisis. | interconnectedness |
+| Panic: The Untold Story | Panic: The Untold Story | Film about decision-making during the 2008 financial crisis. | Can be asked as a definition, comparison or application in Unit 11 — The 2008 Financial Crisis. | crisis; regulation |
+| Lehman Brothers | Lehman Brothers | Investment bank whose 2008 failure accelerated panic. | Can be asked as a definition, comparison or application in Unit 11 — The 2008 Financial Crisis. | systemic risk |
 
-Houses were not only seen as shelter, but also as an investment. Low interest rates, easy credit and the expectation that house prices would always rise created a bubble.
+## Sample questions with short model answers
 
-When house prices fell, people could no longer refinance and defaults and foreclosures increased.
+??? question "Waarom werd 2008 een systeemcrisis?"
+    **Short model answer:** Door hoge leverage, onderlinge verbondenheid, onzekerheid over activa, runs en vertrouwen dat verdween.
+??? question "Wat is het examendoel van Panic?"
+    **Short model answer:** Niet filmfeiten memoriseren, maar crisismechanismen en beleidskeuzes kunnen uitleggen.
 
-## 4. Important players
+## Links with other units
 
-| Player | Role |
-|---|---|
-| Fannie Mae | bought/pooled mortgages, MBS, backbone of the mortgage market |
-| Freddie Mac | similar role in the secondary mortgage market |
-| Bear Stearns | heavily exposed to risky MBS |
-| Lehman Brothers | large real-estate exposure, bankrupt on 15 September 2008 |
-| AIG | insurer, also protection on financial positions; highly interconnected |
-| Fed/Treasury | crisis management and liquidity support |
+- **Unit 1** provides the basic map: actors, markets, intermediaries and balance-sheet logic.
+- **Units 2–4** provide valuation for money-market, bond and equity instruments.
+- **Units 5–7** provide risk, portfolio and derivatives logic.
+- **Units 9–12** explain banking, crisis, regulation and supervision.
 
-## 5. Bear Stearns
-
-Bear Stearns lost confidence because of large exposure to risky mortgage securities. If a financial institution depends on short-term funding, confidence can disappear very quickly. The government/Fed helped arrange a solution with JP Morgan to avoid systemic damage.
-
-## 6. Fannie Mae and Freddie Mac
-
-These institutions were essential to the US mortgage market. The market believed there was an implicit government guarantee. When losses became large, the government had to intervene because a default could have caused global chaos.
-
-## 7. Lehman Brothers
-
-Lehman had large real-estate-related exposure. When no buyer or rescue was found, Lehman had to file for bankruptcy. The bankruptcy destroyed confidence in the interbank market. Institutions no longer wanted to lend to each other.
-
-## 8. AIG
-
-AIG was very strongly connected to investment banks. If AIG had failed, other large institutions could have been severely affected. That is why AIG was considered **too interconnected to fail**.
-
-## 9. TARP
-
-TARP stands for **Troubled Asset Relief Program**. Its goal was to restore confidence and bring capital/liquidity into the banking system. Politically, this was difficult because citizens saw it as rescuing Wall Street while ordinary households lost homes or pension wealth.
-
-## 10. From Wall Street to Main Street
-
-The crisis did not remain limited to banks. If credit markets dry up, companies cannot finance payroll or working capital. That is how a financial crisis hits the real economy: unemployment rises, consumption falls and production slows.
-
-## Exam focus
-
-Tell the crisis as a cause-and-effect chain: cheap mortgages → securitization → risk is spread → house prices fall → defaults → losses → confidence collapses → liquidity dries up → bail-outs/regulation.
+!!! tip "Study tip"
+    Learn each term actively: cover the definition, say an example out loud, then connect it to at least one other unit.

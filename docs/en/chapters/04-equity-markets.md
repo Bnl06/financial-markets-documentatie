@@ -1,45 +1,64 @@
-> **English variant** — Checked against the course slide pack, the exercise solutions and the Dutch summary. Key financial terms follow the terminology used in *Introduction to Financial Markets*.
-
 # Unit 4 — Equity Markets
 
-!!! abstract "Key idea"
+!!! abstract "Core sentence"
+    Equity Markets deal with shares, shareholder rights, orders, indices and valuation.
 
-    Equity markets allow companies to raise equity capital and give investors ownership rights, voting rights and potential dividends.
+## What should you be able to do on the exam?
 
-## 1. Shareholders and their rights
+- Compare stocks and bonds as claims on cash flows.
+- Recognise order types: market, limit and stop-loss.
+- Explain price-weighted versus market-cap-weighted indices.
+- Link active funds to stock picking and higher fees.
 
-A share is an ownership claim on a company. Shareholders usually have the right to:
+## Core mechanism
 
-- vote at the general meeting;
-- receive dividends if the company distributes profits;
-- a residual claim in liquidation, after creditors;
-- sell their shares on the secondary market.
+For open questions, use this structure: **definition → mechanism → example → consequence/link with other units**. This shows that you know relationships, not just isolated terms.
 
-Debt holders have a contractual claim. Equity holders bear more risk, but also have more upside.
+## Formulas and calculation focus
 
-## 2. Primary and secondary market
+- `P_0 = D_1/(r-g)`
+- `Market cap = price × number of shares`
 
-**Primary market**: the company issues new shares and receives capital.  
-**Secondary market**: investors trade existing shares among themselves. The company normally does not receive new money, but the market provides liquidity and price information.
+!!! warning "Common mistakes"
+    - Giving only a definition without linking it to markets or institutions.
+    - Using a formula without stating the rate convention or time period.
+    - Confusing payoff and profit for options.
+    - Memorising ratings, index weights or order types without being able to apply them.
 
-## 3. Stock exchange and trading
+## Terms by unit
 
-A stock exchange provides transparency, matching of buyers and sellers, rules and supervision. Prices are formed by supply and demand.
+| Term | Dutch term | Definition | Exam relevance | Related to |
+| --- | --- | --- | --- | --- |
+| equity market | equity market | Market where shares are issued and traded. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | primary/secondary market |
+| common stock | common stock | Ordinary share with ownership and often voting rights. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | shareholders |
+| dividend | dividend | Profit distribution to shareholders. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | DDM |
+| membership rights | membership rights | Rights attached to share ownership, such as voting rights. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | shareholder control |
+| voting rights | voting rights | Right to vote at the shareholders meeting. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | corporate governance |
+| market order | market order | Order executed immediately at the best available price. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | order types |
+| limit order | limit order | Order with maximum buy price or minimum sell price. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | order types |
+| stop-loss order | stop-loss order | Sell order triggered when market price falls below a specified price. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | risk management |
+| price-weighted index | price-weighted index | Index where higher-priced stocks receive more weight. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | market indices |
+| market-cap weighted index | market-cap weighted index | Index weighted by market capitalisation. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | FTSE; CAC40; DAX |
+| index | index | Benchmark measuring performance of a market segment, e.g. FTSE, CAC40, DAX. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | passive investing |
+| active fund | active fund | Fund selecting securities deliberately to beat a benchmark. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | stock pickers |
+| passive fund | passive fund | Fund tracking an index, usually at lower cost. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | index tracker |
+| stock picker | stock picker | Active manager selecting individual stocks. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | active funds |
+| dividend discount model | dividend discount model | Equity valuation as PV of future dividends. | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | Gordon model |
+| Gordon growth model | Gordon growth model | DDM with constant growth: P0 = D1/(r-g). | Can be asked as a definition, comparison or application in Unit 4 — Equity Markets. | growing perpetuity |
 
-## 4. Valuation: dividend discount model
+## Sample questions with short model answers
 
-If a stock pays a dividend from next year onwards and the dividend grows at a constant rate, the stock can be valued as a growing perpetuity:
+??? question "Wat is het verschil tussen een price-weighted en market-cap-weighted index?"
+    **Short model answer:** Price-weighted geeft meer gewicht aan hoge aandelenprijzen; market-cap weighted geeft meer gewicht aan grotere beurswaarde.
+??? question "Wat doet een stop-loss order?"
+    **Short model answer:** Het verkoopt wanneer de marktprijs onder een opgegeven prijs zakt.
 
-$$V=\frac{D_1}{r-g}$$
+## Links with other units
 
-Example: dividend next year = 3, required return = 10%, growth = 2%.
+- **Unit 1** provides the basic map: actors, markets, intermediaries and balance-sheet logic.
+- **Units 2–4** provide valuation for money-market, bond and equity instruments.
+- **Units 5–7** provide risk, portfolio and derivatives logic.
+- **Units 9–12** explain banking, crisis, regulation and supervision.
 
-$$V=\frac{3}{0.10-0.02}=37.5$$
-
-## 5. Indexes
-
-An index summarizes the development of a market or market segment. Broad stock indexes are examples. Indexes help measure performance, create benchmarks and enable passive investing.
-
-## Exam focus
-
-Explain the difference between debt and equity. Debt has fixed contractual payments and priority; equity is residual, riskier and gives ownership rights.
+!!! tip "Study tip"
+    Learn each term actively: cover the definition, say an example out loud, then connect it to at least one other unit.

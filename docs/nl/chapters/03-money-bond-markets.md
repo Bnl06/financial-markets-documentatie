@@ -1,42 +1,67 @@
-> **Nederlandse variant** — Dit is de hoofdversie voor het studeren. Gebruik de Engelse variant vooral om Engelse vaktermen te herkennen.
-
 # Unit 3 — Money and Bond Markets
 
 !!! abstract "Kernzin"
+    Money and Bond Markets behandelen kortlopende financiering, obligatie-uitgifte, ratings en contractuele bescherming.
 
-    Money markets financieren korte looptijden; bond markets financieren langere looptijden. Beide maken liquiditeit en prijszetting van debt mogelijk.
+## Wat moet je kunnen op het examen?
 
-## 1. Ratings
+- Leg uit waarom repo economisch een gedekte lening is.
+- Vergelijk money market en capital market.
+- Beschrijf uitgiftemethodes van overheidsobligaties: veiling, syndication, tap issue en private placement.
+- Gebruik ratings om investment grade/speculative grade te duiden.
 
-Een rating is een inschatting van kredietkwaliteit. Ze geeft aan hoe waarschijnlijk het is dat de issuer interest en principal terugbetaalt. Hoge rating betekent lager default risk, lagere yield. Lage rating betekent hoger risico, dus beleggers eisen hogere yield.
+## Kernmechanisme
 
-## 2. Money market versus capital market
+Gebruik bij open vragen altijd deze structuur: **definitie → mechanisme → voorbeeld → gevolg/link met andere units**. Zo toon je dat je niet alleen losse woorden kent, maar ook relaties met financiële markten en instellingen.
 
-| Markt | Looptijd | Voorbeelden | Doel |
-|---|---:|---|---|
-| Money market | kort, vaak < 1 jaar | T-bills, commercial paper, certificates of deposit | liquiditeit en korte financiering |
-| Capital/bond market | langer | government bonds, corporate bonds | lange financiering |
+## Formules en rekenfocus
 
-## 3. Public money market instruments
+- `T-bill price = 100/(1+r×T)`
+- `Current yield = coupon / price`
 
-T-bills zijn kortlopende schuldbewijzen van de overheid. Ze worden vaak uitgegeven onder pari en terugbetaald aan face value. De belegger verdient het verschil tussen aankoopprijs en face value.
+!!! warning "Veelgemaakte fouten"
+    - Alleen een definitie geven zonder relatie met markten of instellingen.
+    - Een formule gebruiken zonder te zeggen welke renteconventie of periode gebruikt wordt.
+    - Payoff en profit verwarren bij opties.
+    - Ratings, indexgewichten of ordertypes uit het hoofd kennen maar niet kunnen toepassen.
 
-## 4. Auctions
+## Begrippenlijst per unit
 
-Overheden kunnen schuldpapier via veilingen uitgeven. Bij een **stop yield** wordt bepaald tegen welke hoogste yield nog toegewezen wordt. Wie een lagere yield bood, krijgt ook toegewezen.
+| Begrip | English term | Definitie | Examenbelang | Gelinkt aan |
+| --- | --- | --- | --- | --- |
+| T-bill | Treasury bill | Kortlopend overheidspapier, vaak genoteerd op simple-interest basis. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | money market |
+| commercial paper | commercial paper | Kortlopend ongedekt schuldpapier uitgegeven door ondernemingen. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | money market |
+| certificate of deposit | certificate of deposit | Verhandelbaar deposito-instrument van een bank. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | bank funding |
+| repo | repurchase agreement | Verkoop van effect met afspraak tot terugkoop; economisch een gedekte lening. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | collateral; secondary market |
+| collateral | collateral | Onderpand dat kredietrisico verlaagt. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | repo; ABS |
+| quasi risk-free borrowing | quasi risk-free borrowing | Bij repo is borrowing bijna risicovrij door onderpand, niet volledig zonder risico. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | repo |
+| government bond | government bond | Langlopende schuldtitel uitgegeven door de overheid. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | capital market |
+| corporate bond | corporate bond | Obligatie uitgegeven door onderneming. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | credit rating |
+| investment grade | investment grade | Kredietkwaliteit vanaf BBB-/Baa3 of beter. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | ratings |
+| speculative grade | speculative grade | Rating onder investment grade, met hoger kredietrisico. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | single B |
+| single B rating | single B rating | Kredietrating die als highly speculative wordt beschouwd. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | credit risk |
+| auction | auction | Uitgiftemethode waarbij beleggers bieden op hoeveelheid/rendement. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | primary market |
+| syndication | syndication | Uitgifte of lening georganiseerd door een groep financiële instellingen. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | arranger; underwriting |
+| tap issue | tap issue | Extra uitgifte van een bestaande obligatielijn. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | government bonds |
+| private placement | private placement | Plaatsing rechtstreeks bij beperkte groep investeerders. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | primary market |
+| underwriting | underwriting | Financiële instelling neemt plaatsingsrisico over door effecten/lening eerst zelf te kopen. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | arranger |
+| covenant | covenant | Contractuele beperking of verplichting in een leningsovereenkomst. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | banking; negative pledge |
+| negative pledge | negative pledge | Verbod voor ontlener om extra zekerheden aan andere schuldeisers te geven. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | covenants |
+| ABS | asset-backed security | Effect uitgegeven met pool van activa als onderpand. | Kan als definitie, vergelijking of toepassing gevraagd worden in Unit 3 — Money and Bond Markets. | securitisation |
 
-## 5. Day count conventions
+## Voorbeeldvragen met korte modelantwoorden
 
-Day count bepaalt hoe je een fractie van een jaar berekent. In België worden T-bills volgens de slides gequote met simple interest en ACT/360.
+??? question "Waarom is repo gelinkt aan de secondary market?"
+    **Kort modelantwoord:** Omdat bestaand onderpand/effecten worden verhandeld en teruggekocht; de financiering is collateralised.
+??? question "Wat is een negative pledge?"
+    **Kort modelantwoord:** Een covenant die verhindert dat de ontlener zekerheden aan andere schuldeisers geeft.
 
-Voorbeeld: van 3 maart tot 25 september 2024 is met ACT/360 ongeveer 0,572222 jaar. De prijs per 100 face value bij 1,2% is:
+## Link met andere units
 
-$$P=\frac{100}{1+0.012\times 0.572222}=99.31802$$
+- **Unit 1** levert het basisschema: actoren, markten, intermediairs en balanslogica.
+- **Units 2–4** leveren waardering van geldmarkt-, obligatie- en aandeleninstrumenten.
+- **Units 5–7** leveren risico, portfolio en derivaten.
+- **Units 9–12** verklaren banking, crisis, regulation en supervision.
 
-## 6. Waarom bestaan bond markets?
-
-Bond markets geven overheden en bedrijven toegang tot grote hoeveelheden kapitaal. Ze geven beleggers een instrument met meestal voorspelbare cashflows. De prijs van bonds reageert op interest rates, credit risk en liquiditeit.
-
-## Examenfocus
-
-Je moet kunnen uitleggen waarom een hogere rente de prijs van bestaande obligaties verlaagt: toekomstige coupons worden sterker gedisconteerd, dus hun present value daalt.
+!!! tip "Studietip"
+    Leer elk begrip actief: dek de definitie af, zeg hardop een voorbeeld, en leg daarna de link met minstens één andere unit.

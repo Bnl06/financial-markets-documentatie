@@ -1,110 +1,83 @@
-> **English variant** — Checked against the course slide pack, the exercise solutions and the Dutch summary. Key financial terms follow the terminology used in *Introduction to Financial Markets*.
-
 # Unit 1 — The Financial System
 
-!!! abstract "Key idea"
+!!! abstract "Core sentence"
+    The financial system channels funds from haves to havenots through markets and intermediaries.
 
-    The financial system channels funds from **haves** to **havenots**: from parties with financial surpluses to parties that need financing.
+## What should you be able to do on the exam?
 
-## 1. Actors: haves and havenots
+- Explain how households, firms, government, banks, funds and insurers are connected through balance sheets.
+- Compare direct, semi-direct and indirect finance.
+- Show why leverage can increase ROE but also risk.
+- Link primary/secondary markets to issuance, trading, liquidity and repo.
 
-**Haves** have surplus capital and can lend or invest money. Examples are households, pension funds and investors. **Havenots** have more plans or needs than available money and must raise capital. Examples are corporations, governments and households buying a house.
+## Core mechanism
 
-At the macroeconomic level, **households** are crucial. They are ultimately the owners of many assets and the ultimate bearers of many risks. Even if a bank or fund stands in between, the money often originates from households through deposits, pension contributions or investments.
+For open questions, use this structure: **definition → mechanism → example → consequence/link with other units**. This shows that you know relationships, not just isolated terms.
 
-## 2. Household balance sheet
+## Formulas and calculation focus
 
-A balance sheet shows **assets** on the left and **liabilities** plus net wealth on the right.
+- `Net wealth = assets - liabilities`
+- `ROE = ROA × leverage multiplier`
+- `Leverage multiplier = assets / equity`
 
-$$\text{Net wealth} = \text{assets} - \text{liabilities}$$
+!!! warning "Common mistakes"
+    - Giving only a definition without linking it to markets or institutions.
+    - Using a formula without stating the rate convention or time period.
+    - Confusing payoff and profit for options.
+    - Memorising ratings, index weights or order types without being able to apply them.
 
-Example: a household owns a house worth 100 and has a remaining mortgage debt of 80. Net wealth is 20.
+## Terms by unit
 
-| Assets | Liabilities |
-|---|---|
-| Real estate | Mortgage loan |
-| Cars | Consumer loans |
-| Stocks | Tax debt |
-| Bonds |  |
-| Mutual funds |  |
-| Deposits and cash | Net wealth |
+| Term | Dutch term | Definition | Exam relevance | Related to |
+| --- | --- | --- | --- | --- |
+| haves | haves | Economic units with a financing surplus that can lend funds. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | households; lenders; financial system |
+| havenots | havenots | Economic units with a financing deficit that need to raise funds. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | borrowers; corporates; government |
+| lenders | lenders | Savers or investors supplying funds. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | haves; direct finance |
+| borrowers | borrowers | Parties raising funds through loans, bonds or shares. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | havenots; primary market |
+| net wealth | net wealth | Wealth after liabilities: assets minus liabilities. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | household balance sheet |
+| balance sheet | balance sheet | Statement showing assets and liabilities/equity. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | assets; liabilities |
+| asset | asset | A possession that has value in an exchange transaction. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | real assets; financial assets |
+| real asset | real asset | Tangible asset deriving value from physical characteristics and utility. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | real estate; commodities |
+| intangible asset | intangible asset | Non-physical asset deriving value from a legal claim. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | financial asset |
+| financial asset | financial asset | Intangible asset representing a claim to future cash flows. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | stocks; bonds |
+| liability | liability | Debt or obligation on the balance sheet. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | mortgage; consumer loan |
+| equity | equity | Own funds; residual claim after debt. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | shares; ROE |
+| debt | debt | Borrowed funds with contractual repayment and interest. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | bonds; loans |
+| stock/share | stock/share | Ownership claim in a company and claim on dividends/residual value. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | equity markets |
+| bond | bond | Debt security requiring interest and principal payments. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | bond markets |
+| mutual fund | mutual fund | Collective investment portfolio issuing fund units/certificates. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | intermediation |
+| mortgage loan | mortgage loan | Loan secured by real estate. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | household liabilities |
+| consumer loan | consumer loan | Credit used to finance consumer spending over time. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | household liabilities |
+| traditional asset classes | traditional asset classes | Stocks, bonds and cash/cash equivalents. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | asset allocation |
+| alternative investments | alternative investments | Real estate, commodities, private equity, hedge funds, venture capital and currencies. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | risk and return |
+| leverage | leverage | Use of debt to increase return on equity, with extra risk. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | gearing; ROE; ROA |
+| gearing ratio | gearing ratio | Debt-to-equity measure, often long-term debt divided by equity. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | Dupont; leverage |
+| leverage multiplier | leverage multiplier | Assets divided by equity; in DuPont: ROE = ROA × LM. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | ROE; ROA |
+| direct finance | direct finance | Financing directly linking saver and borrower. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | primary market |
+| semi-direct finance | semi-direct finance | Direct financing assisted by an intermediary such as an investment bank for a fee. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | issuance; arranger |
+| indirect finance | indirect finance | Financing through the balance sheet of a financial institution, e.g. deposit to loan. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | banking; intermediation |
+| primary market | primary market | Market where new securities are issued for the first time. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | issuance; auctions |
+| secondary market | secondary market | Market where existing securities are traded. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | liquidity; repo |
+| money market | money market | Market for short-term instruments, typically up to one year. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | T-bills; repo |
+| capital market | capital market | Market for long-term funding such as equities and bonds. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | equity; bonds |
+| market failure | market failure | Situation where markets do not function efficiently or safely without intervention. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | regulation |
+| disclosure regulation | disclosure regulation | Rules forcing issuers to disclose relevant information. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | investor protection |
+| market conduct regulation | market conduct regulation | Rules governing fair market behaviour, trading and insider dealing. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | supervision |
+| systemically important financial institution | SIFI | Institution whose failure could damage the entire system. | Can be asked as a definition, comparison or application in Unit 1 — The Financial System. | bail-out; systemic risk |
 
-## 3. Kinds of assets
+## Sample questions with short model answers
 
-An **asset** is a possession that has value in an exchange transaction.
+??? question "Vergelijk direct en indirect finance."
+    **Short model answer:** Direct finance linkt spaarder en ontlener rechtstreeks via effecten; indirect finance loopt via balans van een intermediair, bv. deposito naar banklening.
+??? question "Waarom zijn huishoudens cruciaal?"
+    **Short model answer:** Ze zijn ultieme eigenaars van activa en dragen uiteindelijk risico in het systeem.
 
-- **Tangible/real assets**: physical assets such as houses, cars and machines.
-- **Intangible assets**: assets whose value comes from a legal claim, for example a patent.
-- **Financial assets**: claims to future cash flows, for example stocks, bonds or deposits.
+## Links with other units
 
-!!! example "Example"
+- **Unit 1** provides the basic map: actors, markets, intermediaries and balance-sheet logic.
+- **Units 2–4** provide valuation for money-market, bond and equity instruments.
+- **Units 5–7** provide risk, portfolio and derivatives logic.
+- **Units 9–12** explain banking, crisis, regulation and supervision.
 
-    A stock is not the physical ownership of a machine. It is a financial asset because it is an ownership claim on a company and may generate future dividends.
-
-## 4. Asset classes
-
-**Traditional asset classes** are common stock, bonds and cash/cash equivalents. **Alternative investments** include real estate, commodities, private equity, hedge funds, venture capital and currencies/forex.
-
-This distinction matters because every asset class has a different risk-return profile. Cash is usually liquid and relatively safe, while private equity is less liquid and riskier.
-
-## 5. Growth drivers in net wealth
-
-Net wealth changes through:
-
-1. changes in the value of assets and liabilities;
-2. net income from labour, capital or transfers;
-3. inheritances and gifts.
-
-If stock markets rise, the wealth of stock owners rises. In a crash, that wealth can evaporate quickly.
-
-## 6. Corporates: equity, debt and leverage
-
-Corporations finance assets with **equity** and **debt**. Equity comes from shareholders. Debt comes from loans, bonds or trade credit.
-
-**Leverage** means using borrowed money to control more assets. It can increase ROE, but it also magnifies losses.
-
-| Term | Meaning |
-|---|---|
-| ROA | return on assets = profit/assets |
-| ROE | return on equity = profit/equity |
-| Gearing | long-term debt / equity |
-| Leverage multiplier | assets / equity |
-
-Example: assets = 300, equity = 100, debt = 200. Gearing = 200/100 = 2. Leverage multiplier = 300/100 = 3.
-
-## 7. Banks versus corporations
-
-A normal corporation often has relatively more equity. A bank typically has many liabilities because deposits are liabilities for the bank. What is an asset for you is a liability for the bank.
-
-!!! warning "Important for the exam"
-
-    A bank balance sheet is vulnerable because banks use a lot of leverage and because deposits can be withdrawn. If many customers want their money at the same time, liquidity risk or a bank run can arise.
-
-## 8. Direct, semi-direct and indirect finance
-
-```mermaid
-flowchart LR
-    H[Haves / savers] -->|direct finance| B[Borrowers]
-    H -->|deposits| Bank[Financial intermediary]
-    Bank -->|loans| B
-    H -->|buy securities| Market[Financial markets]
-    Market -->|capital after fee| B
-```
-
-- **Direct finance**: funds flow directly from lender to borrower.
-- **Semi-direct finance**: a market or investment bank helps issue securities and receives a fee.
-- **Indirect finance**: a financial intermediary stands in between, for example a bank that receives deposits and grants loans.
-
-## 9. Role of the government
-
-Government regulation exists because financial markets can fail. Important roles are:
-
-- disclosure regulation: information duties to prevent fraud;
-- market conduct regulation: trading rules and prevention of insider trading;
-- financial institution regulation: keeping banks and payment systems safe;
-- monetary policy through the central bank;
-- bail-outs in crisis situations.
-
-## Exam focus
-
-You must be able to explain how money flows from savers to borrowers, how balance-sheet structures differ and why banks require special supervision because of their leverage and liquidity function.
+!!! tip "Study tip"
+    Learn each term actively: cover the definition, say an example out loud, then connect it to at least one other unit.

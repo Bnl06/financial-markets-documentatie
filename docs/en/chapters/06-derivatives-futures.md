@@ -1,43 +1,62 @@
-> **English variant** — Checked against the course slide pack, the exercise solutions and the Dutch summary. Key financial terms follow the terminology used in *Introduction to Financial Markets*.
+# Unit 6 — Forwards, Futures and Swaps
 
-# Unit 6 — Derivatives: Forwards, Futures and Swaps
+!!! abstract "Core sentence"
+    Forwards, futures and swaps allow hedging or speculation on future prices.
 
-!!! abstract "Key idea"
+## What should you be able to do on the exam?
 
-    Derivatives derive their value from an underlying asset or variable. They are used for hedging, speculation and arbitrage.
+- Compare an OTC forward with an exchange-traded future.
+- Explain long versus short.
+- Compute forward price and payoff.
+- Connect margin, clearing house and marking-to-market to risk management.
 
-## 1. Derivative
+## Core mechanism
 
-A derivative is a contract whose value depends on an underlying asset or variable, such as a stock, interest rate, currency or commodity.
+For open questions, use this structure: **definition → mechanism → example → consequence/link with other units**. This shows that you know relationships, not just isolated terms.
 
-## 2. Forward contract
+## Formulas and calculation focus
 
-A forward is an agreement today to buy or sell an asset in the future at a price fixed today. It is usually an OTC, customized contract.
+- `Forward price ≈ S_0(1+r)^T`
+- `Long forward payoff = S_T - K`
+- `Short forward payoff = K - S_T`
 
-Arbitrage-free forward price without income:
+!!! warning "Common mistakes"
+    - Giving only a definition without linking it to markets or institutions.
+    - Using a formula without stating the rate convention or time period.
+    - Confusing payoff and profit for options.
+    - Memorising ratings, index weights or order types without being able to apply them.
 
-$$F=S(1+r)^T$$
+## Terms by unit
 
-Example: spot price = 250, interest rate = 2.3%, maturity = 1 year.
+| Term | Dutch term | Definition | Exam relevance | Related to |
+| --- | --- | --- | --- | --- |
+| derivative | derivative | Financial contract whose value depends on an underlying asset. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | futures; options |
+| underlying asset | underlying asset | Asset on which a derivative is based. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | derivatives |
+| forward contract | forward contract | OTC agreement to buy/sell later at a price set today. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | forward price |
+| futures contract | future contract | Standardised exchange-traded contract with daily settlement. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | marking-to-market |
+| forward price | forward price | Theoretical future delivery price, often S0(1+r)^T without income/storage. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | cost of carry |
+| long position | long position | Position benefiting from an increase in the underlying price. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | payoff |
+| short position | short position | Position benefiting from a decrease in the underlying price. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | payoff |
+| marking-to-market | marking-to-market | Daily settlement of gains and losses on futures. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | margin account |
+| margin | margin | Collateral deposit guaranteeing futures obligations. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | clearing house |
+| clearing house | clearing house | Institution managing counterparty risk in exchange-traded derivatives. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | futures |
+| swap | swap | Contract to exchange future cash flows. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | interest rate swap |
+| hedging | hedging | Reducing risk with an offsetting position. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | derivatives |
+| speculation | speculation | Taking a position to profit from expected price movements. | Can be asked as a definition, comparison or application in Unit 6 — Forwards, Futures and Swaps. | risk |
 
-$$F=250(1.023)=255.75$$
+## Sample questions with short model answers
 
-## 3. Futures
+??? question "Waarom heeft een future minder tegenpartijrisico dan een forward?"
+    **Short model answer:** Door standaardisatie, clearing house, margins en dagelijkse afrekening.
+??? question "Wanneer gebruik je hedging?"
+    **Short model answer:** Wanneer je een bestaand prijs-, rente- of valutarisico wil verminderen.
 
-A future resembles a forward, but it is standardized and traded on an exchange. Futures have marking-to-market and margin requirements, which reduce counterparty risk compared with forwards.
+## Links with other units
 
-## 4. Hedging with futures
+- **Unit 1** provides the basic map: actors, markets, intermediaries and balance-sheet logic.
+- **Units 2–4** provide valuation for money-market, bond and equity instruments.
+- **Units 5–7** provide risk, portfolio and derivatives logic.
+- **Units 9–12** explain banking, crisis, regulation and supervision.
 
-A company facing future uncertainty can use futures to lock in a price. For example, an importer who will need dollars later can use currency futures to reduce exchange-rate risk.
-
-## 5. Swaps
-
-A swap is a contract in which parties exchange cash flows. A common example is an interest rate swap, where fixed interest is exchanged for floating interest.
-
-## 6. Arbitrage
-
-Arbitrage is profit without risk and without a net investment. In efficient markets, arbitrage opportunities disappear quickly because traders exploit them.
-
-## Exam focus
-
-Explain the difference between hedging and speculation. In hedging, derivatives are used to reduce an existing risk. In speculation, risk is deliberately taken in the hope of making a profit.
+!!! tip "Study tip"
+    Learn each term actively: cover the definition, say an example out loud, then connect it to at least one other unit.

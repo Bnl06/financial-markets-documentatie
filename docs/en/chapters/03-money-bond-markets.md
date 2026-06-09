@@ -1,42 +1,67 @@
-> **English variant** — Checked against the course slide pack, the exercise solutions and the Dutch summary. Key financial terms follow the terminology used in *Introduction to Financial Markets*.
-
 # Unit 3 — Money and Bond Markets
 
-!!! abstract "Key idea"
+!!! abstract "Core sentence"
+    Money and Bond Markets cover short-term funding, bond issuance, ratings and contractual protection.
 
-    Money markets finance short maturities; bond markets finance longer maturities. Both create liquidity and pricing for debt instruments.
+## What should you be able to do on the exam?
 
-## 1. Ratings
+- Explain why a repo is economically collateralised borrowing.
+- Compare the money market and the capital market.
+- Describe government bond issuance methods: auction, syndication, tap issue and private placement.
+- Use ratings to distinguish investment grade and speculative grade.
 
-A rating is an assessment of credit quality. It indicates how likely the issuer is to pay interest and principal. A high rating means lower default risk and therefore a lower required yield. A low rating means higher risk, so investors demand a higher yield.
+## Core mechanism
 
-## 2. Money market versus capital market
+For open questions, use this structure: **definition → mechanism → example → consequence/link with other units**. This shows that you know relationships, not just isolated terms.
 
-| Market | Maturity | Examples | Purpose |
-|---|---:|---|---|
-| Money market | short, often < 1 year | T-bills, commercial paper, certificates of deposit | liquidity and short-term financing |
-| Capital/bond market | longer | government bonds, corporate bonds | long-term financing |
+## Formulas and calculation focus
 
-## 3. Public money market instruments
+- `T-bill price = 100/(1+r×T)`
+- `Current yield = coupon / price`
 
-T-bills are short-term government debt instruments. They are often issued below par and repaid at face value. The investor earns the difference between the purchase price and face value.
+!!! warning "Common mistakes"
+    - Giving only a definition without linking it to markets or institutions.
+    - Using a formula without stating the rate convention or time period.
+    - Confusing payoff and profit for options.
+    - Memorising ratings, index weights or order types without being able to apply them.
 
-## 4. Auctions
+## Terms by unit
 
-Governments can issue debt through auctions. The **stop yield** determines the highest yield at which securities are still allocated. Bidders who offered a lower yield also receive an allocation.
+| Term | Dutch term | Definition | Exam relevance | Related to |
+| --- | --- | --- | --- | --- |
+| Treasury bill | T-bill | Short-term government security, often quoted on a simple-interest basis. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | money market |
+| commercial paper | commercial paper | Short-term unsecured debt issued by companies. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | money market |
+| certificate of deposit | certificate of deposit | Tradable bank deposit instrument. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | bank funding |
+| repurchase agreement | repo | Sale of a security with a repurchase agreement; economically collateralised borrowing. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | collateral; secondary market |
+| collateral | collateral | Pledged asset reducing credit risk. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | repo; ABS |
+| quasi risk-free borrowing | quasi risk-free borrowing | In repo borrowing is almost risk-free due to collateral, not literally riskless. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | repo |
+| government bond | government bond | Long-term debt security issued by a government. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | capital market |
+| corporate bond | corporate bond | Bond issued by a corporation. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | credit rating |
+| investment grade | investment grade | Credit quality from BBB-/Baa3 or better. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | ratings |
+| speculative grade | speculative grade | Rating below investment grade with higher credit risk. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | single B |
+| single B rating | single B rating | Credit rating considered highly speculative. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | credit risk |
+| auction | auction | Issuance method where investors bid for quantity/yield. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | primary market |
+| syndication | syndication | Issuance or loan organised by a group of financial institutions. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | arranger; underwriting |
+| tap issue | tap issue | Additional issuance of an existing bond line. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | government bonds |
+| private placement | private placement | Placement directly with a limited investor group. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | primary market |
+| underwriting | underwriting | Financial institution takes placement risk by initially buying the securities/loan. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | arranger |
+| covenant | covenant | Contractual restriction or obligation in a loan agreement. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | banking; negative pledge |
+| negative pledge | negative pledge | Clause preventing borrower from pledging security to other lenders. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | covenants |
+| asset-backed security | ABS | Security backed by a pool of assets as collateral. | Can be asked as a definition, comparison or application in Unit 3 — Money and Bond Markets. | securitisation |
 
-## 5. Day count conventions
+## Sample questions with short model answers
 
-Day count determines how a fraction of a year is calculated. In Belgium, the slides state that T-bills are quoted with simple interest and ACT/360.
+??? question "Waarom is repo gelinkt aan de secondary market?"
+    **Short model answer:** Omdat bestaand onderpand/effecten worden verhandeld en teruggekocht; de financiering is collateralised.
+??? question "Wat is een negative pledge?"
+    **Short model answer:** Een covenant die verhindert dat de ontlener zekerheden aan andere schuldeisers geeft.
 
-Example: from 3 March to 25 September 2024, ACT/360 gives approximately 0.572222 years. The price per 100 face value at 1.2% is:
+## Links with other units
 
-$$P=\frac{100}{1+0.012\times 0.572222}=99.31802$$
+- **Unit 1** provides the basic map: actors, markets, intermediaries and balance-sheet logic.
+- **Units 2–4** provide valuation for money-market, bond and equity instruments.
+- **Units 5–7** provide risk, portfolio and derivatives logic.
+- **Units 9–12** explain banking, crisis, regulation and supervision.
 
-## 6. Why do bond markets exist?
-
-Bond markets give governments and corporations access to large amounts of capital. They give investors instruments with usually predictable cash flows. Bond prices react to interest rates, credit risk and liquidity.
-
-## Exam focus
-
-You must be able to explain why a higher interest rate lowers the price of existing bonds: future coupons are discounted more heavily, so their present value falls.
+!!! tip "Study tip"
+    Learn each term actively: cover the definition, say an example out loud, then connect it to at least one other unit.

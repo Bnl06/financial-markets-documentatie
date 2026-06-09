@@ -1,50 +1,61 @@
-> **English variant** — Checked against the course slide pack, the exercise solutions and the Dutch summary. Key financial terms follow the terminology used in *Introduction to Financial Markets*.
-
 # Unit 5 — Risk and Return
 
-!!! abstract "Key idea"
+!!! abstract "Core sentence"
+    Risk and Return measures return, volatility and portfolio diversification.
 
-    Return is the reward for risk, but not every risk is rewarded in the same way. Diversification reduces specific risk.
+## What should you be able to do on the exam?
 
-## 1. Return
+- Compute expected return as a weighted average.
+- Compute portfolio volatility using correlation.
+- Explain why correlation below +1 creates diversification.
+- Avoid confusing percentages and decimals.
 
-Return measures how much an investment earns relative to the initial investment. Over several years, use compound growth.
+## Core mechanism
 
-$$V_T=V_0(1+r_1)(1+r_2)...(1+r_T)$$
+For open questions, use this structure: **definition → mechanism → example → consequence/link with other units**. This shows that you know relationships, not just isolated terms.
 
-The annual growth rate is the rate that converts the starting value into the ending value.
+## Formulas and calculation focus
 
-## 2. Risk
+- `E(R_p)=Σ w_iE(R_i)`
+- `σ_p²=w_1²σ_1²+w_2²σ_2²+2w_1w_2ρσ_1σ_2`
+- `Return=(P_1-P_0+income)/P_0`
 
-Risk means uncertainty about future outcomes. In financial markets, risk is often measured with variance and standard deviation.
+!!! warning "Common mistakes"
+    - Giving only a definition without linking it to markets or institutions.
+    - Using a formula without stating the rate convention or time period.
+    - Confusing payoff and profit for options.
+    - Memorising ratings, index weights or order types without being able to apply them.
 
-- **Variance**: average squared deviation from the mean.
-- **Standard deviation / volatility**: square root of variance.
+## Terms by unit
 
-## 3. Arithmetic average versus growth rate
+| Term | Dutch term | Definition | Exam relevance | Related to |
+| --- | --- | --- | --- | --- |
+| return | return | Gain as price change plus income relative to initial value. | Can be asked as a definition, comparison or application in Unit 5 — Risk and Return. | risk |
+| expected return | expected return | Average expected return, often probability- or portfolio-weighted. | Can be asked as a definition, comparison or application in Unit 5 — Risk and Return. | portfolio |
+| risk | risk | Uncertainty about future returns. | Can be asked as a definition, comparison or application in Unit 5 — Risk and Return. | volatility |
+| variance | variance | Average squared deviation of returns. | Can be asked as a definition, comparison or application in Unit 5 — Risk and Return. | standard deviation |
+| volatility | volatility | Standard deviation of returns; risk measure. | Can be asked as a definition, comparison or application in Unit 5 — Risk and Return. | portfolio risk |
+| covariance | covariance | Measure of co-movement between two returns. | Can be asked as a definition, comparison or application in Unit 5 — Risk and Return. | correlation |
+| correlation | correlation | Standardised relation between -1 and +1. | Can be asked as a definition, comparison or application in Unit 5 — Risk and Return. | diversification |
+| diversification | diversification | Reducing risk by combining assets that do not move perfectly together. | Can be asked as a definition, comparison or application in Unit 5 — Risk and Return. | portfolio risk |
+| portfolio risk | portfolio risk | Risk of combined portfolio including covariance/correlation. | Can be asked as a definition, comparison or application in Unit 5 — Risk and Return. | volatility |
+| asset allocation | asset allocation | Distribution of a portfolio across asset classes. | Can be asked as a definition, comparison or application in Unit 5 — Risk and Return. | risk-return |
+| systematic risk | systematic risk | Market-wide risk that cannot be diversified away. | Can be asked as a definition, comparison or application in Unit 5 — Risk and Return. | beta |
+| idiosyncratic risk | idiosyncratic risk | Asset-specific risk that can be reduced by diversification. | Can be asked as a definition, comparison or application in Unit 5 — Risk and Return. | diversification |
 
-The arithmetic average is the ordinary average of returns. The growth rate takes compounding into account and is usually lower when returns are volatile.
+## Sample questions with short model answers
 
-!!! warning "Exam trap"
+??? question "Waarom is correlatie belangrijk?"
+    **Short model answer:** Ze bepaalt hoeveel risico wegvalt wanneer activa worden gecombineerd.
+??? question "Wat gebeurt bij negatieve correlatie?"
+    **Short model answer:** Portefeuillerisico kan sterk dalen omdat verliezen deels worden gecompenseerd.
 
-    An average return of +50% and -50% is 0%, but your capital goes from 100 to 150 and then to 75. You therefore end with a loss.
+## Links with other units
 
-## 4. Portfolio theory
+- **Unit 1** provides the basic map: actors, markets, intermediaries and balance-sheet logic.
+- **Units 2–4** provide valuation for money-market, bond and equity instruments.
+- **Units 5–7** provide risk, portfolio and derivatives logic.
+- **Units 9–12** explain banking, crisis, regulation and supervision.
 
-A portfolio combines assets. The expected return is the weighted average:
-
-$$E(r_p)=w_AE(r_A)+w_BE(r_B)$$
-
-The variance also depends on correlation:
-
-$$\sigma_p^2=w_A^2\sigma_A^2+w_B^2\sigma_B^2+2w_Aw_B\sigma_A\sigma_B\rho_{AB}$$
-
-Low or negative correlation lowers portfolio risk.
-
-## 5. Diversification
-
-Diversification works because not all assets move in exactly the same way at the same time. If correlation is below 1, a portfolio can be less risky than the weighted average of individual risks.
-
-## Exam focus
-
-You must be able to explain that portfolio risk depends not only on individual volatilities, but also on correlations. That is the core of diversification.
+!!! tip "Study tip"
+    Learn each term actively: cover the definition, say an example out loud, then connect it to at least one other unit.

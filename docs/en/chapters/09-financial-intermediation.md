@@ -1,50 +1,61 @@
-> **English variant** — Checked against the course slide pack, the exercise solutions and the Dutch summary. Key financial terms follow the terminology used in *Introduction to Financial Markets*.
-
 # Unit 9 — Financial Intermediation
 
-!!! abstract "Key idea"
+!!! abstract "Core sentence"
+    Financial Intermediation explains why institutions are needed to manage information, risk and maturity problems.
 
-    Financial intermediaries stand between savers and borrowers and transform funds in terms of maturity, risk, liquidity and size.
+## What should you be able to do on the exam?
 
-## 1. Why intermediaries exist
+- Explain information asymmetry with adverse selection and moral hazard.
+- Link screening and monitoring to bank intermediation.
+- Compare banks, funds, insurers and pension funds.
+- Place shadow banking in the run-up to 2008.
 
-Savers often want safe, liquid and small investments. Borrowers often want large, long-term financing. Intermediaries solve this mismatch.
+## Core mechanism
 
-## 2. Transformation functions
+For open questions, use this structure: **definition → mechanism → example → consequence/link with other units**. This shows that you know relationships, not just isolated terms.
 
-| Transformation | Explanation | Example |
-|---|---|---|
-| Maturity transformation | short-term funding into long-term loans | deposits → mortgage loans |
-| Risk transformation | spreading and managing risk | a bank assesses credit risk |
-| Size transformation | pooling small amounts | many deposits → one large corporate loan |
-| Liquidity transformation | offering liquid claims | a saver can withdraw money while the loan is long-term |
+## Formulas and calculation focus
 
-## 3. Depository institutions
+- No core formula; focus on conceptual relationships.
 
-Banks accept deposits and grant loans. This makes them important for payments and credit provision.
+!!! warning "Common mistakes"
+    - Giving only a definition without linking it to markets or institutions.
+    - Using a formula without stating the rate convention or time period.
+    - Confusing payoff and profit for options.
+    - Memorising ratings, index weights or order types without being able to apply them.
 
-## 4. Non-depository institutions
+## Terms by unit
 
-Examples are:
+| Term | Dutch term | Definition | Exam relevance | Related to |
+| --- | --- | --- | --- | --- |
+| financial intermediation | financial intermediation | Process by which institutions channel funds from savers to borrowers. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | indirect finance |
+| bank | bank | Financial institution taking deposits and granting loans. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | banking |
+| mutual fund | mutual fund | Intermediary pooling money into an investment portfolio. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | fund certificates |
+| insurance company | insurance company | Intermediary receiving premiums and managing risks/payouts. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | technical provisions |
+| technical provisions | technical provisions | Estimated contractual liabilities of an insurer. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | insurance balance sheet |
+| pension fund | pension fund | Institution investing pension contributions for future payouts. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | institutional investors |
+| shadow banking | shadow banking | Credit intermediation outside traditional bank regulation. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | 2008 crisis |
+| maturity transformation | maturity transformation | Transforming short-term funding into long-term assets. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | liquidity risk |
+| risk transformation | risk transformation | Pooling, diversifying or redistributing risks through intermediaries. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | insurance; banking |
+| information asymmetry | information asymmetry | One party has more/better information than the other. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | adverse selection |
+| adverse selection | adverse selection | Bad risks are more likely selected before contracting due to information problems. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | credit screening |
+| moral hazard | moral hazard | Behaviour becomes riskier after protection/funding is obtained. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | monitoring; covenants |
+| screening | screening | Assessing borrower risk and quality before contracting. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | adverse selection |
+| monitoring | monitoring | Tracking behaviour and financial position after contracting. | Can be asked as a definition, comparison or application in Unit 9 — Financial Intermediation. | moral hazard |
 
-- insurance companies;
-- pension funds;
-- mutual funds;
-- hedge funds;
-- private equity and venture capital.
+## Sample questions with short model answers
 
-## 5. Mutual funds
+??? question "Waarom bestaan financiële intermediairs?"
+    **Short model answer:** Ze verminderen transactiekosten, informatieproblemen en risico’s en voeren maturity/risk transformation uit.
+??? question "Wat is shadow banking?"
+    **Short model answer:** Kredietintermediatie buiten klassieke bankregulering.
 
-A mutual fund pools money from investors and invests it in a portfolio. Investors receive certificates or units. The benefit is diversification and professional management.
+## Links with other units
 
-## 6. Insurance companies
+- **Unit 1** provides the basic map: actors, markets, intermediaries and balance-sheet logic.
+- **Units 2–4** provide valuation for money-market, bond and equity instruments.
+- **Units 5–7** provide risk, portfolio and derivatives logic.
+- **Units 9–12** explain banking, crisis, regulation and supervision.
 
-Insurance companies receive premiums and build technical provisions to pay future claims. Life insurance is linked to mortality risk; non-life insurance is linked to losses such as car accidents, fire or liability.
-
-## 7. Alternative investments
-
-Alternative investments are less traditional, often less liquid and sometimes more complex. Examples include private equity, hedge funds, real estate and commodities.
-
-## Exam focus
-
-Always connect intermediation to balance-sheet logic: what is an asset for the customer is often a liability on the institution's balance sheet.
+!!! tip "Study tip"
+    Learn each term actively: cover the definition, say an example out loud, then connect it to at least one other unit.

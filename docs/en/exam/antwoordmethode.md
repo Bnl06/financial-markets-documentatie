@@ -1,49 +1,30 @@
-> **English variant** — Checked against the course slide pack, the exercise solutions and the Dutch summary. Key financial terms follow the terminology used in *Introduction to Financial Markets*.
-
 # Answer method for open questions
 
-## Basic structure
+Use this fixed structure whenever possible:
 
-Use this structure for almost every open question:
+1. **Definition** — what exactly is the concept?
+2. **Mechanism** — how does it work within markets or institutions?
+3. **Example** — one concrete example or mini-calculation.
+4. **Consequence/link** — why does it matter for risk, funding, crisis or regulation?
 
-1. **Definition** — what does the concept mean?
-2. **Mechanism** — how does it work?
-3. **Example** — give a financial example.
-4. **Impact/risk** — why does it matter for markets or institutions?
+## Rubric: what earns points?
 
-## Example: leverage
+| Element | Weight | What the examiner wants to see |
+|---|---:|---|
+| Correct definition | 30% | A precise financial definition. |
+| Mechanism | 30% | Cause-and-effect and balance-sheet/market logic. |
+| Link with unit | 20% | Mention a market, institution, risk or regulation link. |
+| Example/precision | 20% | Short example, formula or exact term. |
 
-**Definition:** leverage is the use of borrowed money to control more assets than would be possible with equity alone.
+## Common mistakes
 
-**Mechanism:** if the return on assets is higher than the cost of debt, leverage increases ROE. If returns fall, leverage magnifies losses.
+- Translating a term without explaining it.
+- Confusing related terms: payoff/profit, primary/secondary, real/nominal, active/passive.
+- Not linking the answer to financial markets or institutions.
+- In calculations, not stating the period or rate convention.
 
-**Example:** a company has 100 equity and borrows 200, so it controls 300 assets. The leverage multiplier is 300/100 = 3.
+## Model answer
 
-**Impact:** leverage can make companies or banks more profitable, but also more fragile. In a crisis, losses can quickly erode equity.
+**Question:** Explain the difference between a price-weighted and market-cap weighted index.
 
-## Words that make answers stronger
-
-Use these linking words:
-
-- therefore;
-- however;
-- this increases/decreases;
-- this matters because;
-- the risk is that;
-- as a result;
-- in the balance sheet this means that.
-
-## Avoid this
-
-!!! danger "Do not answer like this"
-
-    “Leverage is when you borrow money. It is risky.”
-
-That is too short. Always add the mechanism and a consequence.
-
-## Exam-ready answer template
-
-> [Concept] means ...  
-> It works as follows: ...  
-> A financial example is ...  
-> This is important because ...
+**Model answer:** A price-weighted index gives more weight to stocks with a higher share price, regardless of firm size. A market-cap weighted index gives more weight to firms with a higher market capitalisation, equal to price times number of shares. Therefore, in a market-cap index, large firms dominate the index movement, while in a price-weighted index a high-priced share can dominate even if the company is not the largest.

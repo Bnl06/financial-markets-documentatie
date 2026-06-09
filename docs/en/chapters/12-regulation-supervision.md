@@ -1,81 +1,59 @@
-> **English variant** — Checked against the course slide pack, the exercise solutions and the Dutch summary. Key financial terms follow the terminology used in *Introduction to Financial Markets*.
-
 # Unit 12 — Regulation and Supervision
 
-!!! abstract "Key idea"
+!!! abstract "Core sentence"
+    Regulation and Supervision uses rules and oversight to limit misconduct, bank failure and systemic risk.
 
-    Regulation sets the rules; supervision checks whether institutions operate safely. After 2008, supervision became stronger because of systemic risk and too-big-to-fail problems.
+## What should you be able to do on the exam?
 
-## 1. Banking is risky business
+- Compare disclosure, conduct and prudential regulation.
+- Know deposit insurance, capital adequacy, liquidity requirements and recovery plans.
+- Explain micro- versus macroprudential supervision.
+- Discuss the trade-off between safety, moral hazard and costs.
 
-Banks face several risks.
+## Core mechanism
 
-### Investment risk
+For open questions, use this structure: **definition → mechanism → example → consequence/link with other units**. This shows that you know relationships, not just isolated terms.
 
-- **Credit/default risk**: the debtor does not pay on time.
-- **Market/price risk**: the value of assets/liabilities changes because of market factors.
-- **Interest rate risk**: changes in interest rates affect bond prices and margins.
-- **Credit spread risk**: the risk premium changes.
-- **Stock/commodity/forex risk**: market prices move.
-- **Inflation risk**: purchasing power and cash flows are affected.
-- **Reinvestment risk**: future cash flows can only be reinvested at lower rates.
-- **Liquidity risk**: the bank cannot meet obligations on time.
-- **Operational risk**: losses caused by people, processes, systems or errors.
-- **Legal/regulatory risk**: losses caused by legal or regulatory problems.
+## Formulas and calculation focus
 
-### Business/funding risk
+- No core formula; focus on conceptual relationships.
 
-- financial leverage risk;
-- funding liquidity risk;
-- timing risk;
-- fixed-floating financing risk.
+!!! warning "Common mistakes"
+    - Giving only a definition without linking it to markets or institutions.
+    - Using a formula without stating the rate convention or time period.
+    - Confusing payoff and profit for options.
+    - Memorising ratings, index weights or order types without being able to apply them.
 
-### Systemic risk
+## Terms by unit
 
-Systemic risk means that problems at one institution or market spread to the entire system.
+| Term | Dutch term | Definition | Exam relevance | Related to |
+| --- | --- | --- | --- | --- |
+| regulation | regulation | Rules designed to keep financial markets and institutions safe and fair. | Can be asked as a definition, comparison or application in Unit 12 — Regulation and Supervision. | supervision |
+| supervision | supervision | Oversight of compliance and risks of institutions/markets. | Can be asked as a definition, comparison or application in Unit 12 — Regulation and Supervision. | regulators |
+| deposit insurance | deposit insurance | Guarantee on deposits up to a limit to prevent bank runs. | Can be asked as a definition, comparison or application in Unit 12 — Regulation and Supervision. | bank run |
+| capital adequacy requirements | capital adequacy requirements | Minimum capital buffers relative to risks. | Can be asked as a definition, comparison or application in Unit 12 — Regulation and Supervision. | bank solvency |
+| minimum liquidity requirements | minimum liquidity requirements | Rules requiring sufficient liquid resources. | Can be asked as a definition, comparison or application in Unit 12 — Regulation and Supervision. | liquidity risk |
+| bank recovery plan | bank recovery plan | Plan a bank must prepare for crisis situations. | Can be asked as a definition, comparison or application in Unit 12 — Regulation and Supervision. | resolution |
+| resolution | resolution | Controlled restructuring or winding down of a failing institution. | Can be asked as a definition, comparison or application in Unit 12 — Regulation and Supervision. | bail-in |
+| bail-in | bail-in | Losses are imposed on shareholders/creditors rather than taxpayers. | Can be asked as a definition, comparison or application in Unit 12 — Regulation and Supervision. | no bail-out |
+| Basel framework | Basel framework | International standards on bank capital, liquidity and risk management. | Can be asked as a definition, comparison or application in Unit 12 — Regulation and Supervision. | capital requirements |
+| macroprudential policy | macroprudential policy | Policy aimed at system-wide financial risk. | Can be asked as a definition, comparison or application in Unit 12 — Regulation and Supervision. | systemic risk |
+| microprudential supervision | microprudential supervision | Supervision of individual institutions. | Can be asked as a definition, comparison or application in Unit 12 — Regulation and Supervision. | bank supervision |
+| monetary policy | monetary policy | Central-bank policy on interest rates and money supply. | Can be asked as a definition, comparison or application in Unit 12 — Regulation and Supervision. | financial markets |
 
-## 2. Regulators
+## Sample questions with short model answers
 
-After earlier crises, and especially after 2008, rules became stronger. Important areas are:
+??? question "Hoe bouwen regulators een safe and sound systeem?"
+    **Short model answer:** Via deposit insurance, kapitaalbuffers, liquiditeitsvereisten, herstelplannen en toezicht.
+??? question "Waarom kan deposit insurance moral hazard creëren?"
+    **Short model answer:** Deposanten monitoren minder en banken kunnen meer risico nemen als bescherming te sterk aanvoelt.
 
-- capital requirements;
-- liquidity requirements;
-- disclosure;
-- market discipline;
-- recovery and resolution;
-- protection of depositors and the payment system.
+## Links with other units
 
-## 3. Basel logic
+- **Unit 1** provides the basic map: actors, markets, intermediaries and balance-sheet logic.
+- **Units 2–4** provide valuation for money-market, bond and equity instruments.
+- **Units 5–7** provide risk, portfolio and derivatives logic.
+- **Units 9–12** explain banking, crisis, regulation and supervision.
 
-Basel rules revolve around sufficient capital, supervision and market discipline.
-
-| Pillar | Explanation |
-|---|---|
-| Pillar 1 | minimum capital requirements |
-| Pillar 2 | supervisory review process |
-| Pillar 3 | market discipline/disclosure |
-
-## 4. European Banking Union
-
-The Banking Union consists of mechanisms to make banks safer and reduce national fragmentation.
-
-- **SSM — Single Supervisory Mechanism**: the ECB and national supervisors work together. Large banks are directly supervised by the ECB.
-- **SRM — Single Resolution Mechanism**: aims to resolve bank failures in an orderly way so governments need bail-outs less quickly.
-- **EDIS**: European Deposit Insurance Scheme, still politically sensitive/not fully active.
-
-## 5. Too big to fail versus too interconnected to fail
-
-Size is not the only issue. An institution can be dangerous because it is extremely connected to other institutions. If it fails, a domino effect can arise.
-
-## 6. Supervision
-
-Supervision takes place through:
-
-- off-site monitoring;
-- on-site inspections;
-- review of internal models;
-- event-driven activities, for example crisis management or management changes.
-
-## Exam focus
-
-Explain why rules alone are not enough. Regulation sets the rules, but supervision must check whether banks apply them properly and whether new risks arise.
+!!! tip "Study tip"
+    Learn each term actively: cover the definition, say an example out loud, then connect it to at least one other unit.
